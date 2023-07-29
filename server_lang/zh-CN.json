@@ -809,6 +809,103 @@
         {
             "key": "Box full of supplies",
             "value": "装满供应品的箱子"
+        },
+        {
+            "info": "Skill start",
+            "key": "Health turret",
+            "value": "治疗炮塔"
+        },
+        {
+            "key": "Creates turret a recovery health ",
+            "value": "创建炮塔以恢复血量"
+        },
+        {
+            "key": "+ 10sec life span",
+            "value": "+ 10秒存在时间"
+        },
+        {
+            "key": "Sleepy Gravity",
+            "value": "昏睡重力"
+        },
+        {
+            "key": "Magnet mobs to itself",
+            "value": "吸引怪物到它中心"
+        },
+        {
+            "key": "radius",
+            "value": "半径"
+        },
+        {
+            "key": "Craft Discount",
+            "value": "巧夺天工"
+        },
+        {
+            "key": "Will give discount on the price of craft items",
+            "value": "制造物品时打折"
+        },
+        {
+            "key": "% discount gold for craft item",
+            "value": "% 折扣制造物品所需黄金"
+        },
+        {
+            "key": "Proficiency with weapons",
+            "value": "武器专家"
+        },
+        {
+            "key": "You can perform an automatic fire",
+            "value": "你可以自动开火"
+        },
+        {
+            "key": "can perform an auto fire with all types of weapons",
+            "value": "能够让各类武器自动开火"
+        },
+        {
+            "key": "Blessing of God of war",
+            "value": "战斗祝福"
+        },
+        {
+            "key": "The blessing restores ammo",
+            "value": "恢复所有弹药的祝福"
+        },
+        {
+            "key": "% recovers ammo within a radius of 800",
+            "value": "% 恢复半径25格内所有玩家的弹药"
+        },
+        {
+            "key": "Attack Teleport",
+            "value": "传送攻击"
+        },
+        {
+            "key": "An attacking teleport that deals damage to all mobs radius",
+            "value": "对半径内所有怪物造成伤害的传送"
+        },
+        {
+            "key": "% your strength",
+            "value": "% 你的力量"
+        },
+        {
+            "key": "Cure I",
+            "value": "治疗 I"
+        },
+        {
+            "key": "Restores HP all nearby target's.",
+            "value": "恢复附近玩家的血量"
+        },
+        {
+            "key": "% adds a health bonus",
+            "value": "% 点血量恢复"
+        },
+        {
+            "key": "Provoke",
+            "value": "招惹"
+        },
+        {
+            "key": "Aggresses mobs in case of weak aggression",
+            "value": "侵略怪物"
+        },
+        {
+            "key": "power of aggression",
+            "value": "侵略力量"
         }
     ]
 }
