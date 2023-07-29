@@ -52,7 +52,7 @@ bool CSkill::Use()
 	if(m_ID == Skill::SkillHeartTurret)
 	{
 		// check and reset
-		for(CHealthHealer* pHh = (CHealthHealer*)GS()->m_World.FindFirst(CGameWorld::ENTYPE_SKILLTURRETHEART); pHh; pHh = (CHealthHealer*)pHh->TypeNext())
+		for(CHealthHealer* pHh = (CHealthHealer*)GS()->m_World.FindFirst(CGameWorld::ENTTYPE_SKILLTURRETHEART); pHh; pHh = (CHealthHealer*)pHh->TypeNext())
 		{
 			if(pHh->m_pPlayer->GetCID() != ClientID)
 				continue;
@@ -70,7 +70,7 @@ bool CSkill::Use()
 	if(m_ID == Skill::SkillSleepyGravity)
 	{
 		// check and reset
-		for(CSleepyGravity* pHh = (CSleepyGravity*)GS()->m_World.FindFirst(CGameWorld::ENTYPE_SLEEPYGRAVITY); pHh; pHh = (CSleepyGravity*)pHh->TypeNext())
+		for(CSleepyGravity* pHh = (CSleepyGravity*)GS()->m_World.FindFirst(CGameWorld::ENTTYPE_SLEEPYGRAVITY); pHh; pHh = (CSleepyGravity*)pHh->TypeNext())
 		{
 			if(pHh->m_pPlayer->GetCID() != ClientID)
 				continue;

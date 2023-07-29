@@ -5,7 +5,7 @@
 #include <game/server/gamecontext.h>
 
 CHearth::CHearth(CGameWorld *pGameWorld, vec2 Pos, CPlayer *pPlayer, int Health, vec2 InitialVel, bool ShowInformation)
-: CEntity(pGameWorld, CGameWorld::ENTYPE_HEARTLIFE, Pos)
+: CEntity(pGameWorld, CGameWorld::ENTTYPE_HEARTLIFE, Pos)
 {
 	// set the values by arguments
 	m_Pos = Pos;

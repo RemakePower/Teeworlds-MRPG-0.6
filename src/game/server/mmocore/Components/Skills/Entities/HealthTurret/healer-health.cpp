@@ -6,7 +6,7 @@
 #include <game/server/gamecontext.h>
 
 CHealthHealer::CHealthHealer(CGameWorld *pGameWorld, CPlayer* pPlayer, int SkillBonus, int PowerLevel, vec2 Pos)
-: CEntity(pGameWorld, CGameWorld::ENTYPE_SKILLTURRETHEART, Pos)
+: CEntity(pGameWorld, CGameWorld::ENTTYPE_SKILLTURRETHEART, Pos)
 {
 	m_Pos = Pos;
 	m_pPlayer = pPlayer;

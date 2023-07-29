@@ -5,7 +5,7 @@
 #include <game/server/gamecontext.h>
 
 CSleepyGravity::CSleepyGravity(CGameWorld *pGameWorld, CPlayer* pPlayer, int SkillBonus, int PowerLevel, vec2 Pos)
-: CEntity(pGameWorld, CGameWorld::ENTYPE_SLEEPYGRAVITY, Pos)
+: CEntity(pGameWorld, CGameWorld::ENTTYPE_SLEEPYGRAVITY, Pos)
 {
 	// transmitted arguments
 	m_pPlayer = pPlayer;
@@ -37,6 +37,15 @@ void CSleepyGravity::Tick()
 	{
 		Reset();
 		return;
+	}
+
+	for(CSleepyGravity *p = (CSleepyGravity*) GameWorld()->FindFirst(CGameWorld::ENTTYPE_SLEEPYGRAVITY); p; p = (CSleepyGravity *)p->TypeNext())
+	{
+		if(distance(m_Pos, p->m_Pos) <= m_Radius + 28.0f)
+		{
+			Reset();
+			return;
+		}
 	}
 
 	m_LifeSpan--;

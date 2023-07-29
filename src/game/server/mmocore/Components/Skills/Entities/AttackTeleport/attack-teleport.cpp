@@ -5,7 +5,7 @@
 #include <game/server/gamecontext.h>
 
 CAttackTeleport::CAttackTeleport(CGameWorld *pGameWorld, vec2 Pos, CCharacter* pPlayerChar, int SkillBonus)
-: CEntity(pGameWorld, CGameWorld::ENTYPE_NOCTIS_TELEPORT, Pos, 28.0f)
+: CEntity(pGameWorld, CGameWorld::ENTTYPE_NOCTIS_TELEPORT, Pos, 28.0f)
 {
 	// transmitted arguments
 	m_pPlayerChar = pPlayerChar;
