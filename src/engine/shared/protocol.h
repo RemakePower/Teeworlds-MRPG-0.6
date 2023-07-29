@@ -81,8 +81,8 @@ enum
 	SERVER_FLAG_PASSWORD = 0x1,
 	SERVER_FLAG_TIMESCORE = 0x2,
 
-	MAX_CLIENTS = 128, // TODO: add support vanilla
-	MAX_PLAYERS = 24,
+	MAX_CLIENTS = 136, // TODO: add support vanilla
+	MAX_PLAYERS = 32,
 	VANILLA_MAX_CLIENTS = 64,
 
 	ENGINE_MAX_WORLDS = 64,
