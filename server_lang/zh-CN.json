@@ -156,6 +156,659 @@
         {
             "key": "Greedy Pirates",
             "value": "贪婪的海盗"
+        },
+        {
+            "info": "Item start",
+            "key": "Gold",
+            "value": "金币"
+        },
+        {
+            "key": "Major currency",
+            "value": "主要货币"
+        },
+        {
+            "key": "Hammer",
+            "value": "锤子"
+        },
+        {
+            "key": "A normal hammer",
+            "value": "普通的锤子"
+        },
+        {
+            "key": "Gun",
+            "value": "手枪"
+        },
+        {
+            "key": "Conventional weapon",
+            "value": "常规武器"
+        },
+        {
+            "key": "Shotgun",
+            "value": "霰弹枪"
+        },
+        {
+            "key": "Grenade",
+            "value": "榴弹"
+        },
+        {
+            "key": "Rifle",
+            "value": "激光枪"
+        },
+        {
+            "key": "Material",
+            "value": "材料"
+        },
+        {
+            "key": "Required to improve weapons",
+            "value": "需要改进武器"
+        },
+        {
+            "key": "Ticket guild",
+            "value": "工会创建票"
+        },
+        {
+            "key": "Command: /gcreate <name>",
+            "value": "指令: /gcreate＜name＞"
+        },
+        {
+            "key": "Skill Point",
+            "value": "技能点"
+        },
+        {
+            "key": "Skill point",
+            "value": "技能点"
+        },
+        {
+            "key": "Decoration Armor",
+            "value": "装饰护盾"
+        },
+        {
+            "key": "Decoration for house!",
+            "value": "装饰房子！"
+        },
+        {
+            "key": "Decoration Heart Elite",
+            "value": "装饰心型壁炉"
+        },
+        {
+            "key": "Decoration for house!",
+            "value": "装饰房子！"
+        },
+        {
+            "key": "Decoration Ninja Elite",
+            "value": "装饰忍者壁炉"
+        },
+        {
+            "key": "Decoration Heart",
+            "value": "装饰红心"
+        },
+        {
+            "key": "Potion mana regen",
+            "value": "魔力再生药水"
+        },
+        {
+            "key": "Regenerate +5%, 15sec every sec.\n",
+            "value": "魔力再生+5%，持续15秒.\n"
+        },
+        {
+            "key": "Tiny HP Potion",
+            "value": "微型HP药水"
+        },
+        {
+            "key": "Recovers 7HP per second for 10 seconds.",
+            "value": "每秒恢复7点生命，持续10秒。"
+        },
+        {
+            "key": "Capsule survival experience",
+            "value": "经验胶囊"
+        },
+        {
+            "key": "You got 10-50 experience survival",
+            "value": "你会获得10-50点的经验"
+        },
+        {
+            "key": "Little bag of gold",
+            "value": "小袋金币"
+        },
+        {
+            "key": "You got 10-50 gold",
+            "value": "你会获得10-50金币"
+        },
+        {
+            "key": "Potion resurrection",
+            "value": "复活药剂"
+        },
+        {
+            "key": "Resuscitates in the zone where you died!",
+            "value": "在你死亡的地方复活！"
+        },
+        {
+            "key": "Explosive module for gun",
+            "value": "手枪爆炸模块"
+        },
+        {
+            "key": "It happens sometimes",
+            "value": "有时生效"
+        },
+        {
+            "key": "Explosive module for shotgun",
+            "value": "霰弹枪爆炸模块"
+        },
+        {
+            "key": "Ticket reset class stats",
+            "value": "职业技能点重置卷"
+        },
+        {
+            "key": "Resets only class stats(Dps, Tank, Healer).",
+            "value": "仅重置职业属性（战士，坦克，治疗）。"
+        },
+        {
+            "key": "Mode PVP",
+            "value": "PVP模式"
+        },
+        {
+            "key": "Settings game.",
+            "value": "游戏设置"
+        },
+        {
+            "key": "Ticket reset weapon stats",
+            "value": "武器技能点重置卷"
+        },
+        {
+            "key": "Resets only ammo stats(Ammo).",
+            "value": "仅重置弹药属性（弹药）。"
+        },
+        {
+            "key": "Blessing for discount craft",
+            "value": "制造打折券"
+        },
+        {
+            "key": "Need dress it, -20% craft price",
+            "value": "带上它可以减免20%的制造价格"
+        },
+        {
+            "key": "Show equipment description",
+            "value": "显示装备说明"
+        },
+        {
+            "key": "Rusty Rake",
+            "value": "生锈的耙子"
+        },
+        {
+            "key": "The usual rusty rake.",
+            "value": "普通的生锈耙子。"
+        },
+        {
+            "key": "Rusty Pickaxe",
+            "value": "生锈的镐子"
+        },
+        {
+            "key": "The usual rusty pickaxe.",
+            "value": "普通的生锈镐子。"
+        },
+        {
+            "key": "Beast Tusk Light Armor (All)",
+            "value": "野兽獠牙轻型盔甲(全职业)"
+        },
+        {
+            "key": "Lightweight armor.",
+            "value": "轻型盔甲"
+        },
+        {
+            "key": "Boxes of jam",
+            "value": "一箱果酱"
+        },
+        {
+            "key": "A jam made of lots of fresh fruits.",
+            "value": "由许多新鲜水果做成的果酱。"
+        },
+        {
+            "key": "Sheila's Bento Box",
+            "value": "Sheila的便当盒"
+        },
+        {
+            "key": "A lunchbox made by Sheila.",
+            "value": "Sheila做的午餐盒"
+        },
+        {
+            "key": "Wood",
+            "value": "木头"
+        },
+        {
+            "key": "Antelope blood",
+            "value": "羚羊的血"
+        },
+        {
+            "key": "The blood extracted from Antelopes.",
+            "value": "从羚羊身上提取的血液。"
+        },
+        {
+            "key": "Wild Forest Mushroom",
+            "value": "野生森林蘑菇"
+        },
+        {
+            "key": "They can often be found under big trees.",
+            "value": "它们经常可以在大树下找到。"
+        },
+        {
+            "key": "Show critical damage",
+            "value": "显示暴击伤害"
+        },
+        {
+            "key": "Althyk's Ring",
+            "value": "Althyk的戒指"
+        },
+        {
+            "key": "Althyk's Ring is an item level 1.",
+            "value": "Althyk的戒指是1级物品。"
+        },
+        {
+            "key": "Empyrean Ring",
+            "value": "帝王戒指"
+        },
+        {
+            "key": "Empyrean Ring is an item level 1.",
+            "value": "帝王戒指是1级物品。"
+        },
+        {
+            "key": "Ring of Fidelity",
+            "value": "忠诚手环"
+        },
+        {
+            "key": "Ring of Fidelity is an item level 1.",
+            "value": "忠诚手环是1级物品。"
+        },
+        {
+            "key": "Eversharp Ring",
+            "value": "Eversharp的戒指"
+        },
+        {
+            "key": "Eversharp Ring is an item level 1.",
+            "value": "Eversharp的戒指是1级物品。"
+        },
+        {
+            "key": "Green Grass Armor (All)",
+            "value": "绿草盔甲（全职业）"
+        },
+        {
+            "key": "Lightweight armor.",
+            "value": "轻型盔甲"
+        },
+        {
+            "key": "Green grass",
+            "value": "绿草"
+        },
+        {
+            "key": "Bloody Woven Flower",
+            "value": "血腥编织花"
+        },
+        {
+            "key": "Soaked in blood",
+            "value": "浸泡在血中"
+        },
+        {
+            "key": "Grass Rake",
+            "value": "草耙"
+        },
+        {
+            "key": "The usual grass rake.",
+            "value": "普通的草耙"
+        },
+        {
+            "key": "Grass Pickaxe",
+            "value": "草镐"
+        },
+        {
+            "key": "The usual grass pickaxe.",
+            "value": "普通的草镐"
+        },
+        {
+            "key": "Fragile Iron",
+            "value": "碎铁"
+        },
+        {
+            "key": "Refreshing Potion",
+            "value": "提神药水"
+        },
+        {
+            "key": "A potion that Village Doctor Cal made.",
+            "value": "乡村医生Cal做的一种药剂。"
+        },
+        {
+            "key": "Blue pollen",
+            "value": "蓝色花粉"
+        },
+        {
+            "key": "Green pollen",
+            "value": "绿色花粉"
+        },
+        {
+            "key": "Relic Fragments",
+            "value": "遗迹碎片"
+        },
+        {
+            "key": "Fragments from the ruins.",
+            "value": "废墟中的碎片"
+        },
+        {
+            "key": "Heavy Crate",
+            "value": "重型板条箱"
+        },
+        {
+            "key": "A crate full of various items.",
+            "value": "装满各种物品的板条箱"
+        },
+        {
+            "key": "Rations",
+            "value": "口粮"
+        },
+        {
+            "key": "These cloth-wrapped are heavier than they look.",
+            "value": "这些布包裹的比看起来更重"
+        },
+        {
+            "key": "Torn handbag",
+            "value": "破旧弹药包"
+        },
+        {
+            "key": "Torn handbag with ammo",
+            "value": "装有弹药的破旧弹药包"
+        },
+        {
+            "key": "Sticky Secretion",
+            "value": "粘液"
+        },
+        {
+            "key": "A sticky and slimy liquid.",
+            "value": "粘稠的液体。"
+        },
+        {
+            "key": "Cooling Liquid",
+            "value": "冷却液"
+        },
+        {
+            "key": "An ice-cold cooling liquid.",
+            "value": "一种冰冷的液体。"
+        },
+        {
+            "key": "Bentley's Amulet",
+            "value": "Bentley的护身符"
+        },
+        {
+            "key": "A somewhat shabby amulet that emits magic waves.",
+            "value": "一个有点破旧的护身符，能发出神奇的波浪"
+        },
+        {
+            "key": "Uncharged Gem",
+            "value": "未充能的宝石"
+        },
+        {
+            "key": "A mysterious gem that can absorb Magic.",
+            "value": "一种可以吸收魔法的神秘宝石。"
+        },
+        {
+            "key": "Charged Gem",
+            "value": "充能宝石"
+        },
+        {
+            "key": "A gem that has been recharged.",
+            "value": "重新充能的宝石。"
+        },
+        {
+            "key": "Eidolon Otohime",
+            "value": "仆从Otohime"
+        },
+        {
+            "key": "Random Relics Box",
+            "value": "遗迹盲盒"
+        },
+        {
+            "key": "Small chance of dropping a relics",
+            "value": "掉落文物的几率很小"
+        },
+        {
+            "key": "Eidolon Merrilee",
+            "value": "仆从Merrilee"
+        },
+        {
+            "key": "Blue Light Armor (All)",
+            "value": "蓝粘液轻型盔甲(全职业)"
+        },
+        {
+            "key": "Lightweight armor.",
+            "value": "轻型盔甲"
+        },
+        {
+            "key": "Blue slime",
+            "value": "蓝黏液"
+        },
+        {
+            "key": "Blue Rake",
+            "value": "蓝粘液耙子"
+        },
+        {
+            "key": "The usual blue rake.",
+            "value": "普通的蓝粘液耙子。"
+        },
+        {
+            "key": "Blue Pickaxe",
+            "value": "蓝粘液稿子"
+        },
+        {
+            "key": "The usual blue pickaxe.",
+            "value": "普通的蓝粘液稿子。"
+        },
+        {
+            "key": "Poison Hook",
+            "value": "毒钩"
+        },
+        {
+            "key": "Inflicts gradual damage.",
+            "value": "能够造成中毒伤害。"
+        },
+        {
+            "key": "Explosive impulse hook",
+            "value": "爆炸钩"
+        },
+        {
+            "key": "Inflicts gradual explode damage.",
+            "value": "能够造成爆炸伤害。"
+        },
+        {
+            "key": "Magic Spider Hook",
+            "value": "魔法蜘蛛钩"
+        },
+        {
+            "key": "It's sticky to the air.",
+            "value": "它对空气很粘。"
+        },
+        {
+            "key": "Fruit",
+            "value": "水果"
+        },
+        {
+            "key": "This fruit gives out a sweet fragrance.",
+            "value": "这种水果散发出甜甜的香味。"
+        },
+        {
+            "key": "Confiscated Material",
+            "value": "没收的材料"
+        },
+        {
+            "key": "The thick, heavy box",
+            "value": "厚重的箱子"
+        },
+        {
+            "key": "Bestial Light Armor (DoT)",
+            "value": "兽性轻型盔甲(坦克)"
+        },
+        {
+            "key": "Armor for Tank",
+            "value": "坦克盔甲"
+        },
+        {
+            "key": "Cleaned Fruit",
+            "value": "干净的水果"
+        },
+        {
+            "key": "Hard Fruit",
+            "value": "硬水果"
+        },
+        {
+            "key": "The fruit has just been picked from a tree and is caked in mud.",
+            "value": "水果刚从树上摘下来，结满了泥。"
+        },
+        {
+            "key": "Insect Fluid",
+            "value": "昆虫液体"
+        },
+        {
+            "key": "It's extremely sticky and has a slightly sour taste.",
+            "value": "它非常粘，有一点酸味。"
+        },
+        {
+            "key": "Waterproof Bomb",
+            "value": "防水炸弹"
+        },
+        {
+            "key": "Covered in waterproof paint and won't get wet.",
+            "value": "涂上防水涂料，不会弄湿。"
+        },
+        {
+            "key": "Flyer from Braeden",
+            "value": "Braeden的传单"
+        },
+        {
+            "key": "The flyer from Fisherman Braeden is covered in text.",
+            "value": "渔夫Braden的传单上布满了文字"
+        },
+        {
+            "key": "Eternal Sun Belt",
+            "value": "永恒的太阳腰带"
+        },
+        {
+            "key": "Eternal Sun Belt is an item level 1.",
+            "value": "永恒太阳腰带是1级物品。"
+        },
+        {
+            "key": "Shadower Mantle (DoH)",
+            "value": "影子披风(治疗者)"
+        },
+        {
+            "key": "Mantle for Healer.",
+            "value": "治疗者的披风。"
+        },
+        {
+            "key": "Mercenary Armor (DoW)",
+            "value": "雇佣兵盔甲（战士）"
+        },
+        {
+            "key": "Lightweight armor for DPS.",
+            "value": "为攻击速度而生的轻型盔甲。"
+        },
+        {
+            "key": "Vine",
+            "value": "葡萄藤"
+        },
+        {
+            "key": "It's long, but quite firm.",
+            "value": "它很长，但很结实。"
+        },
+        {
+            "key": "Thin Vine",
+            "value": "薄葡萄藤"
+        },
+        {
+            "key": "It's thin and long, but quite firm.",
+            "value": "它又薄又长，但很结实。"
+        },
+        {
+            "key": "Eidolon Dryad",
+            "value": "仆从Dryad"
+        },
+        {
+            "key": "Crab Claw",
+            "value": "太阳蟹爪"
+        },
+        {
+            "key": "Claw of crab.",
+            "value": "太阳螃蟹的爪子。"
+        },
+        {
+            "key": "Broken Bone",
+            "value": "破碎的骨头"
+        },
+        {
+            "key": "Cracked bones with plentiful marrow.",
+            "value": "骨裂，骨髓丰富。"
+        },
+        {
+            "key": "Sharp Bone",
+            "value": "锋利的骨头"
+        },
+        {
+            "key": "Sharp bone can be sold to merchants who need it.",
+            "value": "锋利的骨头可以卖给有需要的商人。"
+        },
+        {
+            "key": "Large Petal",
+            "value": "大花瓣"
+        },
+        {
+            "key": "After a special drying process.",
+            "value": "经过特殊的干燥过程。"
+        },
+        {
+            "key": "Thorny Ring",
+            "value": "荆棘戒指"
+        },
+        {
+            "key": "Thorny Ring is an item level 1.",
+            "value": "荆棘戒指是1级物品。"
+        },
+        {
+            "key": "Thorny Necklace",
+            "value": "荆棘项链"
+        },
+        {
+            "key": "Thorny Necklace is an item level 1.",
+            "value": "荆棘项链是1级物品。"
+        },
+        {
+            "key": "Bone Armillae",
+            "value": "骨甲"
+        },
+        {
+            "key": "Bone Armillae is an item level 1.",
+            "value": "骨甲是1级物品。"
+        },
+        {
+            "key": "Pig Queen",
+            "value": "猪女王"
+        },
+        {
+            "key": "Eidolon Pig Queen",
+            "value": "仆从猪女王"
+        },
+        {
+            "key": "Eidolon Crystal",
+            "value": "仆从水晶"
+        },
+        {
+            "key": "Required to improve eidolons",
+            "value": "所需改善仆从"
+        },
+        {
+            "key": "Caged Parrot",
+            "value": "笼中鹦鹉"
+        },
+        {
+            "key": "Was it worth it?",
+            "value": "值得吗？"
+        },
+        {
+            "key": "Box full of supplies",
+            "value": "装满供应品的箱子"
         }
     ]
 }
