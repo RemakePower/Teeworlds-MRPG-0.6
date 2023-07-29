@@ -41,6 +41,9 @@ void CSleepyGravity::Tick()
 
 	for(CSleepyGravity *p = (CSleepyGravity*) GameWorld()->FindFirst(CGameWorld::ENTTYPE_SLEEPYGRAVITY); p; p = (CSleepyGravity *)p->TypeNext())
 	{
+		if(p == this)
+			continue;
+
 		if(distance(m_Pos, p->m_Pos) <= m_Radius + 28.0f)
 		{
 			Reset();
