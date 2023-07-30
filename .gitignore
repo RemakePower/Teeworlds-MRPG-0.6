@@ -70,3 +70,5 @@ rules.ninja
 MinSizeRel/mastersrv.exe
 MinSizeRel/versionsrv.exe
 *.code-workspace
+
+mmoteeworlds_srv
