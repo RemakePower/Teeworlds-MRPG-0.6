@@ -3,7 +3,7 @@
         {
             "hash": 9687506483592867219,
             "key": "\"Well... you're just a kid. You need to take care of yourself. If somebody bullies you, you come back and let me know.\"",
-            "value": "\"好吧... 你还是个孩子. 你得先关心你自己. 如果有人欺负了你, 回来告诉我.\""
+            "value": "\"好吧... 你走了后. 你要多关心自己. 如果有人欺负了你, 要回来告诉我.\""
         },
         {
             "hash": 5184319203232908776,
@@ -18,17 +18,17 @@
         {
             "hash": 8542454166638196799,
             "key": "\"If you need to talk...\" Since the spirit appeared, it seems that everyone wants to chat. However, after what happened with Brian, you are fearful of what the future will bring.",
-            "value": "\"如果你需要聊天...\" 在精灵出现之后, 似乎每个人都想要聊天. 然而, 在Brian的遭遇后, 你对未来会发生什么而担忧."
+            "value": "\"如果你需要帮助...\" 在精灵出现之后, 好像每个人都需要帮助. 然而, 在Brian的遭遇后, 你对你未来会发生什么感到担忧."
         },
         {
             "hash": 14358478791774020701,
             "key": "[p]You hang you head and release a soft sigh. <player> continues speaking as if it understands how you feel.",
-            "value": "[p] 你垂下头, 轻轻叹了口气. <player> 继续说话, 就好像它理解你的感受。"
+            "value": "[p]你低下头, 轻轻叹了口气. <player>继续说, 好像只有它理解你的感受。"
         },
         {
             "hash": 16300347743129058034,
             "key": "\"I'm Otohime, an Eidolon. We exist everywhere you are and everywhere you are not, and I hide within the transforming power of your spirit.\"",
-            "value": "\"我是Otohime, 一个幻灵. 我们存在于任何地方, 而我隐藏在你精神的转化力量中.\""
+            "value": "\"我是Otohime, 一只幻灵. 我们会出现在任何地方, 而我藏在你的精神深处.\""
         },
         {
             "hash": 2274234717297177267,
@@ -38,17 +38,17 @@
         {
             "hash": 6495518287334262468,
             "key": "[p]Otohime's words render you speechless. Gaia is a name you've heard in legends since childhood. At least it isn't more talk of an evil spirit or a curse.",
-            "value": "[p]Otohime的话让你无言以对. Gaia是你从小就在传说中听到的名字, 至少它不是更多人讨论的恶灵或诅咒."
+            "value": "[p]Otohime的话让你无言以对, Gaia是你从小就在传说中听到的名字, 至少它不是现在人们讨论的恶灵和诅咒."
         },
         {
             "hash": 18094525223100835202,
             "key": "\"Right now, I grow with the power of your spirit. But if your spirit gets weak and frail, darkness can devour you, just as it did Brian. You'll lose yourself; evil will distort your mind.\"",
-            "value": "\"现在, 我随着你精神的力量成长. 但如果你的精神变得虚弱, 黑暗就会吞噬你, 就像Brian一样. 你就会迷失自己; 邪恶会扭曲你的思想.\""
+            "value": "\"现在, 我会随着你的精神成长. 如果你的精神变得扭曲, 黑暗就会吞噬你, 你就会迷失自己, 邪恶会扭曲你的思想: 就像Brian一样.\""
         },
         {
             "hash": 7781684608137493110,
             "key": "[bot_12]\"Dad! <player> is a good person! You're just going to send my hero away?\"",
-            "value": "[bot_12]\"爸爸! <player> 是个好人! 你只是想把我的英雄赶走吗?\""
+            "value": "[bot_12]\"爸爸! <player>是好人! 你要把我的救星赶走吗?\""
         },
         {
             "hash": 10042061995042335848,
@@ -58,12 +58,12 @@
         {
             "hash": 15817122339621166309,
             "key": "[p]You tell Sheila that you have decided to leave the village, and you plan to find a way to separate from your spirit, even if you have to travel to the ends of Earth.",
-            "value": "[p]你告诉Sheila你已经决定离开村庄, 你想找到个方法去与你的灵魂分离, 即使你必须前往遥远的地方."
+            "value": "[p]你告诉Sheila你已经决定离开村庄, 你有个方法去与你的精灵分离, 即使你要前往遥远的地方."
         },
         {
             "hash": 2907720583151523953,
             "key": "\"I thought you might come to that conclusion. There's nothing I can really say now that you've made up your mind.\"",
-            "value": "\"我认为你既然会得出这个结论, 而现在你已经下定决心了, 我没有任何事情要和你交代了.\""
+            "value": "\"我想, 如果你能得出这个结论, 说明现在你已经下定决心了, 我没有什么事情要和你交代了.\""
         },
         {
             "hash": 8344186575619037717,
@@ -73,97 +73,97 @@
         {
             "hash": 5523106279609539477,
             "key": "\"You've really decided to leave?\" Anita peers at you curiously.",
-            "value": "\"你真的决定离开了?\" Anita好奇的看着你."
+            "value": "\"所以你真的决定离开了?\" Anita好奇的看着你."
         },
         {
             "hash": 8469179039381217743,
             "key": "[p]You nod.",
-            "value": "[p]你点点头."
+            "value": "[p]你点了点头."
         },
         {
             "hash": 13722454378138092044,
             "key": "[bot_10]\"<player>, we know you are a true warrior. If you have a problem, you can let us know. You needn't bear the entire burden yourself.\"",
-            "value": "[bot_10]\"<player>, 我们都知道你是一个真正的战士, 如果你有任何困难都可以告诉我们, 你不必自己承担.\""
+            "value": "[bot_10]\"<player>, 我们都知道你是一位真正的勇士, 如果你有困难都可以告诉我们, 我们会帮助你的.\""
         },
         {
             "hash": 2980875127416612196,
             "key": "\"Are you really leaving today? I thought you'd stay for a few more days.\" There is an edge of sadness to Betsy's smile.",
-            "value": "\"你今天真的要走吗? 我以为你会多待几天.\" Betsy的笑容里带着一丝悲伤."
+            "value": "\"你今天真的要走吗? 我还以为你会多待几天.\" Betsy的笑容中带着一丝悲伤."
         },
         {
             "hash": 6652066798574331411,
             "key": "\"I truly believe you will succeed. You're different from Brian. I know it in my very soul.\" Betsy nods with affirmation.",
-            "value": "\"我相信你会成功的. 你和Brian不一样. 我心里知道这一点.\" Betsy肯定地点点头."
+            "value": "\"我相信你会成功的. 你和Brian不一样!\" Betsy肯定地点点头."
         },
         {
             "hash": 8814438875101050056,
             "key": "\"Go ahead! Experience the brilliant journey of life and be sure to tell everyone about the wonders of Port Skandia! We could use some tourist money.\"",
-            "value": "\"继续前进! 体验人生的辉煌旅程, 一定要告诉大家Skandia港口的华丽! 我们可以使用一些旅游资金.\""
+            "value": "\"去吧! 体验人生的辉煌旅程, 不要忘记讲述Skandia港口的华丽! \""
         },
         {
             "hash": 3746848159988676052,
             "key": "[p]York stares at you as the other look on in silence. You will need a convincing explanation about everything that has happened.",
-            "value": "[p]York盯着你, 别人沉默地看着你. 你需要对发生的一切进行令人信服的解释."
+            "value": "[p]York盯着你, 其他人沉默地看着你. 你需要对着发生的一切进行解释."
         },
         {
             "hash": 2275816732507726232,
             "key": "\"Such confounded...\"",
-            "value": "\"如此令人困惑...\""
+            "value": "\"多么让人困惑...\""
         },
         {
             "hash": 18027108252184997513,
             "key": "\"<player>, what are you doing here? It's dangerous out here, so just go on back to the village...\" Kane spots the creature next to you, staggering back with surprise.",
-            "value": "\"<player>, 你在这里干什么? 这里很危险, 赶快回村里去吧...\" Kane发现了你旁边的生物, 惊讶的后退."
+            "value": "\"<player>, 你在这里干什么? 这里很危险, 赶紧回村里去吧...\" Kane发现了你旁边的生物, 惊讶的后退."
         },
         {
             "hash": 108070665898337245,
             "key": "\"<player>... you've got a monster on your back, eh? Are you bound by a curse, too?\" Kane keeps one hand on his weapon as he sizes you up.",
-            "value": "\"<player>... 你的背上有个怪物, 是吧? 你也被诅咒了? \" Kane一边打量着你, 一边将手放在了武器上."
+            "value": "\"<player>... 你的背后有个怪物, 对吧? 你也被诅咒了? \" Kane一边打量着你, 一边将手放在了武器上."
         },
         {
             "hash": 8013352677264408470,
             "key": "[p]Kane's words pain you; you have to find Brian and ask him to clarify the situation. You hope Kane can tell you where Brian is.",
-            "value": "[p]kane的话让你痛苦; 你必须找到Brian并让他说明情况. 你希望kane能告诉你Brian在哪里."
+            "value": "[p]kane的话让你很痛苦; 你必须找到Brian并让他说明情况. 你希望kane能告诉你Brian在哪里."
         },
         {
             "hash": 17993006462297691539,
             "key": "\"Brian took the Villager Chief's son, Joel. When we tried to save the boy, a black panther attacked us. They're hiding in the cave now.\"",
-            "value": "\"Brian带走了村长的儿子joel. 我们试图救那个男孩的时候, 一只黑豹袭击了我们. 它们现在 应该躲在洞穴里.\""
+            "value": "\"Brian带走了村长的儿子joel. 我们救试图救他的时候, 一只黑豹突然袭击了我们. 现在它们应该躲在洞穴里.\""
         },
         {
             "hash": 5742100420647304284,
             "key": "[p]You tell Kane that the creature with you might have something to do with Brian, hoping he'll allow you into the cave to find Brian. You have to find a way to rescue Joel!",
-            "value": "[p]你告诉Kane, 和你在一起的生物可能与Brian有关, 希望他能允许你进入洞穴找到Brian. 你必须想办法解救Joel!"
+            "value": "[p]你告诉Kane, 和你在一起的生物可能与Brian有关, 希望他能允许你进入洞穴找到Brian. 你会想办法解救Joel的!"
         },
         {
             "hash": 12543105980755380428,
             "key": "\"I don't know what to do. You two are both cursed by spirits, so perhaps you are bound together somehow... Hopefully, through Brian, you can save yourself.\"",
-            "value": "\"我不知道该怎么办. 你们两个都被鬼魂诅咒了, 或许你们不知怎么就被绑在了一起... 你也许能通过Brian来救赎自己.\""
+            "value": "\"我不知道我该怎么办. 你们两个都被诅咒了, 可能你们不知怎么就被绑在了一起... 或许你能通过Brian来救赎自己.\""
         },
         {
             "hash": 4460666642090070686,
             "key": "\"Joel, are you okay? Are you hurt?\" York examines the boy frantically, searching for wounds.",
-            "value": "\"Joel, 你还好吗? 你受伤了吗?\" York疯狂的打量着男孩, 寻找伤口."
+            "value": "\"Joel, 你还好吗? 你有受伤了吗?\" York打量着男孩, 寻找伤口."
         },
         {
             "hash": 10311583616519969238,
             "key": "\"It's just better this way...\"",
-            "value": "\"那只是更好的方法...\""
+            "value": "\"那只是个更好的方法...\""
         },
         {
             "hash": 3241637522299560045,
             "key": "[bot_38]\"Ugh, why does stuff like this always happen to me?\" he groans with a heavy sigh.\n",
-            "value": "[bot_38]\"唉, 为什么这样的事情总是发生在我身上?\" 他叹了一口气.\n"
+            "value": "[bot_38]\"唉, 为什么这样的事会发生在我身上?\" 他叹了一口气.\n"
         },
         {
             "hash": 5995927034259323858,
             "key": "[bot_38]\"Brian, Brian... oh, yeah, the crazy jerk who broke my wagon, right? He smacked me! With his hand!\" Larry whines.",
-            "value": "[bot_38]\"Brian, Brian... 哦, 是的, 那个打碎我马车的疯子, 对吧? 他用他的手打了我一巴掌!\" Larry叫道."
+            "value": "[bot_38]\"Brian... Brian... 哦! 是那个打碎我马车的疯子! 对吧? 他还打了我一巴掌!\" Larry叫道."
         },
         {
             "hash": 6247978078185958349,
             "key": "\"But I did say I'd try to help you, and I'm a man of my word. I'll think of a way to get you out of your pickle.\" Luther strokes his chin, thinking.",
-            "value": "\"但我确实说过我会尽力帮助你, 我是一个讲信用的人. 我会想办法帮你摆脱困境.\" Luther抚摸着下巴, 若有所思."
+            "value": "\"但我确实说过我会尽力帮助你, 我会想办法帮你摆脱困境.\" Luther摸着下巴, 若有所思."
         },
         {
             "hash": 3676728169394191644,
@@ -173,7 +173,7 @@
         {
             "hash": 14054387802096039991,
             "key": "\"Mom, Dad, why are you looking at <player> that way? This hero saved me from a serious baddie. Without my savior, I would never have seen you again.\"",
-            "value": "\"妈妈, 爸爸, 你为什么那样看 <player> ? 这位英雄把我从一个大坏蛋手中救了出来. 如果没有我的救星, 我就再也见不到你们了.\""
+            "value": "\"爸爸, 妈妈, 你们为什么那样看<player>? 他把我从一个大坏蛋手中救了出来. 如果没有我的他, 我就再也见不到你们了.\""
         },
         {
             "hash": 5688780115869995349,
@@ -183,7 +183,7 @@
         {
             "hash": 13090186450423749345,
             "key": "[bot_10]\"Joel, we know. But there are still a couple of things we have to figure out...\"",
-            "value": "[bot_10]\"Joel, 我们知道. 但是我们仍有几件事需要弄清楚...\""
+            "value": "[bot_10]\"Joel, 我们知道. 但是我们还有几件事需要弄清...\""
         },
         {
             "hash": 4356667712069449372,
@@ -193,17 +193,17 @@
         {
             "hash": 9068005813665895287,
             "key": "[p]You tell Elena what Brian said and ask her if the same thing will happen to you. Will you become a bloodthirsty, savage monster, too?",
-            "value": "[p]你把Brian说的话告诉Elena, 然后问她同样的事情是否会发生在你身上. 你也会变成一个嗜血, 野蛮的怪物吗?"
+            "value": "[p]你告诉Elena: Brian什么也没说, 然后问她: 你也会变成一个嗜血, 野蛮的怪物吗?"
         },
         {
             "hash": 10055330636302660852,
             "key": "\"I... I have no idea. I really am sorry. I just can't say.\" Elena sighs regrettably.",
-            "value": "\"我… 我不知道. 我真的很抱歉. 我真的说不上来.\" Elena遗憾地叹了口气."
+            "value": "\"我… 我不知道. 我很抱歉. 我真的说不上来...\" Elena遗憾地叹了口气."
         },
         {
             "hash": 11168248273580934861,
             "key": "\"Chief York! <player> shouldn't stay in Port Skandia. Nobody can guarantee this freak won't go crazy. For everyone's safety, <player> should leave.\"",
-            "value": "\"York首领! <player> 不应该留在Skandia港. 没有人能保证这个怪胎不会发疯. 为了大家的安全, <player> 应该离开.\""
+            "value": "\"York首领! <player>不应该留在Skandia港. 没有人能保证这个怪胎不会发疯. 为了大家的安全, <player>应该离开!\""
         },
         {
             "hash": 11767305864516011737,
@@ -213,12 +213,12 @@
         {
             "hash": 9969875334232270896,
             "key": "[bot_10]\"Kane! Bite your tongue!\"",
-            "value": "[bot_10]\"Kane! 咬你的舌头!\""
+            "value": "[bot_10]\"Kane! 闭上你的嘴!\""
         },
         {
             "hash": 8837246582412180228,
             "key": "\"No, not at all! Selena is a wonderful, beautiful girl. I... I've actually always liked her...\"",
-            "value": "\"不, 一点也不! Selena是一个非常漂亮的女孩. 我… 其实我一直都很喜欢她...\""
+            "value": "\"不, 不是! Selena是一位漂亮的女孩. 我… 其实我一直都很喜欢她...\""
         },
         {
             "hash": 15572462917145752430,
@@ -228,32 +228,32 @@
         {
             "hash": 9194797787552425010,
             "key": "Center",
-            "value": "中心"
+            "value": "中庭"
         },
         {
             "hash": 7301311168643289408,
             "key": "Madeline closes her eyes for a moment, sighing deeply. \"We're still missing half. What are we going to do? Why can't Selena understand?\"",
-            "value": "Madeline闭上眼睛, 深深地叹了一口气.\"我们仍然缺少一半. 我们该怎么办? 为什么Selena不能理解?\""
+            "value": "Madeline闭上眼睛, 深深地叹了一口气.\"我们仍然缺少一半的资金. 我们该怎么办? 为什么Selena不能理解?\""
         },
         {
             "hash": 12459426343527312581,
             "key": "\"You don't look too good. I guess she didn't have the time to solve your problem, eh?\"",
-            "value": "\"你看起来不太好. 我想她没有时间解决你的问题, 嗯?\""
+            "value": "\"你看起来不太好. 我猜她没有时间解决你的问题, 对吧?\""
         },
         {
             "hash": 11042726469939925147,
             "key": "\"What? You don't know? Well, what can I do? I need to be compensated for this!\" Larry roars, frustrated.",
-            "value": "\"什么? 你不知道吗? 好吧, 我能做什么? 我需要为此得到补偿!\" Larry沮丧地咆哮着."
+            "value": "\"什么? 你不知道? 好吧, 我能做什么? 我得到补偿!\" Larry悲伤地叫着."
         },
         {
             "hash": 12743487467925016024,
             "key": "\"Maybe...\" His eyes light up. You lean in eagerly.",
-            "value": "\"或许...\" 他的眼睛亮了起来. 你急切地靠进去."
+            "value": "\"或许...\" 他的眼睛亮了起来. 你急切地靠了过去."
         },
         {
             "hash": 10416568581181570054,
             "key": "\"This protection money issue is really putting pressure on the Town Mayor. If you can help her out, I bet she'd be willing to help you, too.\"",
-            "value": "\"这个保护资金的问题确实给镇长带来了很大的压力. 如果你能帮她, 我打赌她也愿意帮你.\""
+            "value": "\"这个保护资金的问题确实给镇长带来了很大的压力. 如果你能帮她, 我猜她也会帮你.\""
         },
         {
             "hash": 10595900264397459819,
@@ -263,37 +263,37 @@
         {
             "hash": 11170852361504242213,
             "key": "[eidolon]\"Who's Selena? And why does she make you so nervous?\" <eidolon> pipes up.",
-            "value": "[eidolon]\"谁是Selena? 还有她为什么让你这么紧张?\" <eidolon> 大声说."
+            "value": "[eidolon]\"谁是Selena? 还有她为什么会让你这么紧张?\" <eidolon>大声的说."
         },
         {
             "hash": 4360770265950718871,
             "key": "\"Um, Selena is the Town Mayor's daughter. We grew up together.\" Luther smoothes his hair, clearly flustered.",
-            "value": "\"嗯, Selena是镇长的女儿. 我们在一起长大.\" Luther捋了捋头发，显然很慌乱."
+            "value": "\"额, Selena是镇长的女儿. 我们在一起长大.\" Luther捋了捋头发, 显然很慌乱."
         },
         {
             "hash": 5833677090921421137,
             "key": "[eidolon]\"Your pulse has quickened. That's what happens when humans feel the emotion known as 'fear.' Is this Selena a wretched monster of some kind?\"",
-            "value": "[eidolon]\"你的脉搏加快了. 当人类感受到被称为 '恐惧' 的情绪时, 就会发生这种情况. 这个Selena是某种可怜的怪物吗? \""
+            "value": "[eidolon]\"你的心跳加快了. 当人类感受到被称为 '紧张' 的情绪时, 就会发生这种情况. 这个Selena是某种怪物吗? \""
         },
         {
             "hash": 18394748774291932585,
             "key": "[p]You force a friendly smile and greet Madeline, then ask about borrowing the treasure chest.",
-            "value": "[p]你强颜欢笑, 向打招呼Madeline, 然后问起借用宝箱的事."
+            "value": "[p]你努力挤出一个笑脸, 向打招呼Madeline, 然后问起借用宝箱的事."
         },
         {
             "hash": 11861242499979497825,
             "key": "\"I haven't the energy to think about anything else. Dealing with these Pirates is no easy task.\"",
-            "value": "\"我没有精力去想别的事情. 对付这群海盗绝非易事."
+            "value": "\"我没有精力去想别的事情. 想对付这群海盗绝非易事.""
         },
         {
             "hash": 16978542252286419901,
             "key": "\"Helonia didn't produce enough fruit this year. I don't know what to do.\"",
-            "value": "\"Helonia今年的水果产量不够. 我不知道该怎么办.\""
+            "value": "\"Helonia今年的水果的产量不够. 我不知道该怎么办!\""
         },
         {
             "hash": 2978932891246477865,
             "key": "\"The problems seem insurmountable. Not only do we have a severe shortage, but the Tanuki outside the village keep disrupting the villagers with their incessant fighting.\"",
-            "value": "\"这些问题无法解决. 我们不仅严重短缺, 并且村外的Tanuki也不断地攻击村民.\""
+            "value": "\"这些问题根本没法解决! 我们不仅严重短缺, 并且村外的Tanuki也不断地攻击村民!\""
         },
         {
             "hash": 12859729702756410765,
@@ -303,12 +303,12 @@
         {
             "hash": 13344402977306992942,
             "key": "Madeline raises a surprised eyebrow. She cocks her head, staring at you.",
-            "value": "Madeline惊讶地扬起眉毛. 她低下头, 看着你."
+            "value": "Madeline惊讶地扬起眉毛. 然后低下头, 看着你."
         },
         {
             "hash": 14075360776285010145,
             "key": "\"If there's nothing else I can help you with, you should probably go.\"",
-            "value": "\"如果我没有什么可以帮你的，你可能应该走了.\""
+            "value": "\"如果我没有什么可以帮你的，你可以走了.\""
         },
         {
             "hash": 1969411435863611373,
@@ -318,12 +318,12 @@
         {
             "hash": 3030931293295891856,
             "key": "\"Am I lying? You saw what became of Brian. How can I be sure the same won't happen to <player>? Anyone under the curse should leave for the good of our village!\"",
-            "value": "\"我在撒谎? 你看到了Brian的下场. 我怎么能确定同样的事情不会发生在<player>身上? 任何受到诅咒的人都应该为了我们村的利益而离开!\""
+            "value": "\"你看到了Brian的下场. 我怎么能确定同样的事情不会发生在<player>身上? 任何受到诅咒的人都应该为了我们村的利益而离开!\""
         },
         {
             "hash": 8152264793382816409,
             "key": "[p]You affectionately ruffle Beebis's feathers; it is time to say goodbye. You have only spent a short amount of time together, but with Beebis by your side, you feel you aren't alone.",
-            "value": "[p]你深情地搅乱了Beebis的羽毛; 是时候说再见了. 你在一起的时间很短, 但有Beebis在你的身边, 你并会不觉得自己孤单."
+            "value": "[p]你深情地搅了搅Beebis的羽毛; 是时候说再见了. 你们在一起的时间很短, 但有Beebis在你的身边, 你并会不觉得自己孤单."
         },
         {
             "hash": 1347631472465266105,
@@ -333,12 +333,12 @@
         {
             "hash": 2690965464310101022,
             "key": "\"That Luther is a smart one. If Selena were half as mature as he is, I wouldn't have to worry so much.\" Madeline sighs heavily.",
-            "value": "\"Luther是个聪明人. 如果Selena有他一半成熟, 我就不用那么担心了.\" Madeline重重地叹了口气."
+            "value": "\"Luther是个聪明的人. 如果Selena有他一半成熟, 我就不用那么担心了.\" Madeline重重地叹了口气."
         },
         {
             "hash": 4802659174571043029,
             "key": "[bot_36]Beebis seems tranquil, as though he is totally unaware of the tragedy that has taken place.",
-            "value": "[bot_36]Beebis看起来很平静, 好像他完全没有意识到已经发生的悲剧."
+            "value": "[bot_36]Beebis看起来很平静, 好像他完全没有意识到发生的悲剧."
         },
         {
             "hash": 96283696714553177,
@@ -353,17 +353,17 @@
         {
             "hash": 15104974952786256668,
             "key": "\"Take it easy, and be careful. Nothing too exciting ever happens in this tiny town. The world outside this place - well, now there's an adventure!\"",
-            "value": "\"放轻松, 要小心. 在这个小镇上从来没有发生过什么令人兴奋的事. 好吧, 在这个地方之外的世界现在有一场冒险!\""
+            "value": "\"在这个小镇上从来没有发生过什么令人兴奋的事. 现在, 在这个地方之外的世界现在有一场冒险!\""
         },
         {
             "hash": 17856322544667616539,
             "key": "\"Have you met everyone you needed to meet? <player>, do you know where to go?\" Sheila asks sorrowfully.",
-            "value": "\"你去见过所有需要的人吗? <player>, 你知道去哪里吗?\" Sheila悲伤地问道."
+            "value": "\"你去有见过所有需要的人吗? <player>, 你知道你去哪吗?\" Sheila悲伤地问道."
         },
         {
             "hash": 5962900763399884715,
             "key": "[p]You nod, though you truly aren't sure. Maybe it would be better to go to a big city with lots of people to ask about the issue. Perhaps you'll find someone who knows how to separate the spirit from your body.",
-            "value": "[p]你点头, 尽管你真的不确定. 也许去一个有很多人的大城市问这个问题会更好. 或许你会找到一个知道如何将灵魂与身体分离的人."
+            "value": "[p]你点头, 尽管你也不确定. 也许你会去一个有很多人的大城市. 也许你会找到一个知道如何将灵魂与身体分离的人."
         },
         {
             "hash": 572648416583438871,
@@ -373,7 +373,7 @@
         {
             "hash": 78849497060405614,
             "key": "[p]Upon hearing that, you brighten a bit. The Helonia Coast is located to the northwest of Port Skandia. You decide to go there and investigate.",
-            "value": "[p]听到这些, 你有些兴奋. Skandia码头位于Helonia港湾的西北部. 你决定去那里调查一番."
+            "value": "[p]听到这些, 你有些兴奋. 你决定了去那里调查一番."
         },
         {
             "hash": 12463479694974529417,
@@ -383,12 +383,12 @@
         {
             "hash": 10457232299658592448,
             "key": "[p]You nod. The news the Village Chief's wife gave you sparks new hope in your heart. Your journey now has a purpose.",
-            "value": "[p]你点了点头. 村长夫人给你的消息在你心中燃起了新的希望. 你的旅程现在有了目标."
+            "value": "[p]你点了点头. Shelia给你的消息在你心中燃起了新的希望. 你的旅程现在有了目标."
         },
         {
             "hash": 7801390918424524939,
             "key": "\"Did you pack all your things? You've got everything you need, right?\" Sheila asks fretfully.",
-            "value": "\"你把所有的东西都打包了吗? 你已经准备好了你需要的一切东西, 对吧?\" Sheila焦急的问道."
+            "value": "\"你把所有的东西都打包了吗? 你已经准备好了你需要的东西, 对吧?\" Sheila焦急的问道."
         },
         {
             "hash": 11000256510724181866,
@@ -398,7 +398,7 @@
         {
             "hash": 4928454222617060988,
             "key": "[p]You sigh helplessly and allow the strange creature to follow you around. You have to focus on finding Brian; then you can figure out what to do with your strange possession situation.",
-            "value": "[p]你无奈地叹了一口气, 任由这个奇怪的生物跟着你转. 你必须先专注于找到Brian; 然后你就可以弄清楚如何处理你奇怪的附身情况了."
+            "value": "[p]你无奈地叹了一口气, 任由这个奇怪的生物跟着你转. 你必须先找到Brian; 然后就可以问清楚如何处理那个奇怪的精灵了."
         },
         {
             "hash": 10745756065519544250,
@@ -428,7 +428,7 @@
         {
             "hash": 7776875024598510812,
             "key": "\"Welcome to Helonia. Are you here on business? Helonia's a wonderful place!\"",
-            "value": "\"欢迎来到Helonia港湾. 你是来出差的吗? Helonia港湾可是个好地方!\""
+            "value": "\"欢迎来到Helonia港湾. 你是来旅游的吗? Helonia港湾可是个好地方!\""
         },
         {
             "hash": 16812675250239684312,
@@ -438,7 +438,7 @@
         {
             "hash": 13140625173438482176,
             "key": "\"Sheila told you to look for me?\" Luther scratches his head.",
-            "value": "\"Sheila让你找我?\" Luther搔着头."
+            "value": "\"Sheila让你找我?\" Luther挠挠头."
         },
         {
             "hash": 5147729437765737518,
@@ -458,12 +458,12 @@
         {
             "hash": 16458478879155540189,
             "key": "\"Why are you looking for Brian, too? Do you know him?\"",
-            "value": "\"为什么你也在找Brian? 你认识他吗?\""
+            "value": "\"怎么你也在找Brian? 你认识他吗?\""
         },
         {
             "hash": 3968111151394314757,
             "key": "[p]You shake your head fiercely. \"I have an urgent issue, and I must speak to him to clear things up.\"",
-            "value": "[p]你猛摇头. \"我有一个紧急的事情, 我必须和他谈谈来解决.\""
+            "value": "[p]你猛摇头. \"我有一个重要的事情, 我必须和他谈谈.\""
         },
         {
             "hash": 15029182930248409909,
@@ -483,22 +483,22 @@
         {
             "hash": 15133992413112538792,
             "key": "\"It means that a hero who will save the world will be born here. But it also says... the hero could become a demon that could destroy the very fabric of our universe.\"",
-            "value": "\"这意味着一个拯救世界的英雄将在这里诞生. 但是它也说... 英雄可能会成为摧毁世间万物的恶魔.\""
+            "value": "\"这意味着一个拯救世界的英雄将在这里诞生. 但是它还说... 英雄可能会成为摧毁世间万物的恶魔.\""
         },
         {
             "hash": 12908150372298817452,
             "key": "\"I'm sorry. I know it's not your fault. I just need to calm down.\" He sighs again.",
-            "value": "\"对不起. 我知道这不是你的错. 我需要冷静下来.\" 他又叹了口气."
+            "value": "\"对不起. 这不是你的错. 我需要冷静下来.\" 他又叹了口气."
         },
         {
             "hash": 9316137236052821108,
             "key": "[p]You see goods scattered about and wonder if you should help him with the investigation.",
-            "value": "[p]你看到货物散落一地, 不知道是否应该帮助他调查."
+            "value": "[p]你看到货物散落一地, 不知是否应该帮助他调查."
         },
         {
             "hash": 10374258195816282831,
             "key": "\"You still want to assist me? Could you just help me bring those scattered boxes over here? Please?\"",
-            "value": "\"你还要帮助我吗? 你能帮我把那些零散的盒子带过来吗? 可以吗?\""
+            "value": "\"你能帮我下吗? 帮我把那些零散的盒子带过来. 可以吗?\""
         },
         {
             "hash": 18351934832912402908,
@@ -513,7 +513,7 @@
         {
             "hash": 15726848135513397619,
             "key": "Glad you're here to help. I couldn't move all this stuff on my own. I'm Larry, by the way, and I'm a traveling merchant.\" He sticks out his hand. You shake it gamely, then introduce yourself to him.",
-            "value": "很高兴你能来帮忙. 我一个人搬不动这些东西. 顺便说一句, 我叫Larry, 是一名旅行商人.\" 他伸出手来. 你勇敢地握了握手, 然后向他介绍自己."
+            "value": "很高兴你能来帮忙. 我一个人搬不动这些东西. 我叫Larry, 是一名旅行商人.\" 他伸出手来. 你勇敢地握了握手, 然后向他介绍自己."
         },
         {
             "hash": 8595391905162451385,
@@ -523,17 +523,17 @@
         {
             "hash": 3966411792707546224,
             "key": "\"I'd like to ask you to send this package to my friend Bentley on my behalf. It's just some dried food he asked me to buy for him several days ago. Though the other items were destroyed, this will prevent him from going hungry, at least.\"",
-            "value": "\"我想请你代我把这个包裹寄给我的朋友Bentley. 这是他几天前让我给他买的一些干粮. 尽管很多东西都被销毁了, 但这至少可以防止他挨饿.\""
+            "value": "\"我想请你代我把这个包裹寄给我的朋友Bentley. 这是他几天前让我给他买的一些干粮. 尽管很多东西都被摧毁了, 但这至少可以防止他挨饿.\""
         },
         {
             "hash": 3628426716397908524,
             "key": "\"There's something in it for you, too. This friend of mine has been hunting here for ages, so he knows this forest like the back of his hand. Perhaps he can help you find Brian.\"",
-            "value": "\"这里面也有适合你的东西. 我的这个朋友在这里打猎已经很久了, 所以他对这片森林了如指掌. 或许他能帮你找到Brian.\""
+            "value": "\"我的这个朋友在这里打猎已经很久了, 所以他对这片森林了如指掌. 或许他能帮你找到Brian.\""
         },
         {
             "hash": 15864148821628013109,
             "key": "\"Well, what really happened to Brian,\" Bentley mutters, pressing down on a bleeding wound.",
-            "value": "\"好吧, Brian到底发生了什么?\" Bentley嘟囔着, 压住流血的伤口."
+            "value": "\"好吧, Brian到底怎么了?\" Bentley嘟囔着, 压住流血的伤口."
         },
         {
             "hash": 10041678857204582360,
@@ -553,12 +553,12 @@
         {
             "hash": 9898719508917656538,
             "key": "\"It's Brian. I just don't know what he's up to. I just saw him dragging a child deep into the forest. I approached him; I never thought he'd attack me so viciously.\"",
-            "value": "\"那是Brian. 我不知道他在干什么. 我只看到他把一个孩子拖进了森林深处. 我想靠近他; 我没想到他会那样恶毒地攻击我.\""	
+            "value": "\"当时我看到Brian. 我不知道他在干什么. 我只看到他把一个孩子拖进了森林深处. 我想靠近他; 但他却那样恶毒地攻击我.\""	
         },
         {
             "hash": 15440844074973715081,
             "key": "[bot_36]Bentley grinds his teeth, clearly in immense pain. Beebis rests his feathered head on your shoulder as though he, too, is concerned.",
-            "value": "[bot_36]Bentley磨牙, 显然非常痛苦. Beebis把他长着羽毛的头靠在你的肩膀上, 好像他也很担心."
+            "value": "[bot_36]Bentley咬咬牙, 显然很痛苦. Beebis把他的头靠在你的肩膀上, 好像也很担心."
         },
         {
             "hash": 9467697879610212054,
@@ -568,7 +568,7 @@
         {
             "hash": 18073549792642842550,
             "key": "\"You want to take on that beastly thing? He dwells in the Ruins Cave not far from here, but you'd better be careful.\"\n",
-            "value": "\"你想和那个野兽较量一下吗? 他住在离这里不远的废墟洞穴里, 你最好小心点.\"\n"
+            "value": "\"你想和那个野兽较量一下吗? 他在离这里不远的废墟洞穴里, 你最好小心点.\"\n"
         },
         {
             "hash": 3574361592129590126,
@@ -588,22 +588,22 @@
         {
             "hash": 17954932565824895082,
             "key": "\"Beebis, stop following <player>. You're only causing trouble!\" Flower shouts, frustrated.",
-            "value": "\"Beebis, 不要跟着<player>. 你只会制造麻烦!\" Flower沮丧地喊道."
+            "value": "\"Beebis, 不要再跟着<player>了. 你只会制造麻烦!\" Flower沮丧地喊道."
         },
         {
             "hash": 14147801978261714270,
             "key": "[bot_36]Beebis takes a step back, then quickly catches back up with you.",
-            "value": "[bot_36]Beebis后退了一步, 然后迅速的追上你."
+            "value": "[bot_36]Beebis先后退了一步, 然后快速的追上你."
         },
         {
             "hash": 1571385964291752594,
             "key": "[p]You hand everything you've found, including the Relic Fragments, Flower. You also give her the secret translation information.",
-            "value": "[p]你把你找到的所有东西全都交给我, 包括遗迹碎片, Flower. 你还在给她秘密翻译信息."
+            "value": "[p]你把你找到的所有东西全都交给我, 包括遗迹碎片!"
         },
         {
             "hash": 15242802006928441855,
             "key": "\"Well, at least we found most of the fragments. Let me see. This part should go here, and that one must be placed there...\"",
-            "value": "\"至少我们找到了大部分碎片. 让我看看... 这个部分应该放在这里, 那个部分必须放在那里...\""
+            "value": "\"至少我们找到了大部分碎片. 让我看看... 这个部分放在这里, 那个部分放在那里...\""
         },
         {
             "hash": 740027896333588860,
@@ -613,7 +613,7 @@
         {
             "hash": 13569531443096498651,
             "key": "[p]Your heart races anxiously; you ask Flower about the message on the stone statue.",
-            "value": "[p]你的心焦急地跳动; 你问Flower石像上面的留言是什么."
+            "value": "[p]你的心脏紧张地跳动; 你问Flower石像上面的留言是什么."
         },
         {
             "hash": 15027978722259965841,
@@ -623,27 +623,27 @@
         {
             "hash": 16869197953193430340,
             "key": "\"This is a pretty deep wound. I'm probably going to have to do something about it, eh?\" Bentley winces.",
-            "value": "\"这是一个很深的伤疤. 我可能不得不做点什么了, 嗯?\" Bentley有些退缩."
+            "value": "\"这是一个很深的伤口. 我可能不得不做点什么了.\" Bentley有些退缩."
         },
         {
             "hash": 582714793576824729,
             "key": "[p]You explain why Beebis is following you, then inquire about Bentley's injuries.",
-            "value": "[p]你解释了Beebis为什么跟踪你, 然后询问Bentley的伤势."
+            "value": "[p]你解释了Beebis为什么跟着你, 然后询问Bentley的伤势."
         },
         {
             "hash": 16110002361284899508,
             "key": "[eidolon]\"Hey! Stop that! That is your master's property,\" Snaps Alessa, moving the fruit out of Beebis's reach.",
-            "value": "[eidolon]\"嘿住手! 那是你主人的财产,\" 你拍了拍Alessa, 将水果放到了Beebis够不着的地方."
+            "value": "[eidolon]\"嘿住手! 那是你主人的东西,\" Alessa拍了怕你, 让你把水果放到Beebis够不着的地方."
         },
         {
             "hash": 676458606070803374,
             "key": "\"<player>, are you ready? I have some special magic I can try on that spirit. As for the result, well, we'll just have to wait and see.\"",
-            "value": "\"<player>, 你准备好了吗? 我有一些特殊的魔法可以在那个灵魂身上试试. 至于结果... 我们只能拭目以待.\""
+            "value": "\"<player>, 你准备好了吗? 我有一些特殊的魔法可以在那个精灵身上试试. 至于结果... 我们只能拭目以待.\""
         },
         {
             "hash": 1801978335594064235,
             "key": "\"Brian's personality completely changed. He shattered everything in Elena's place and snapped her staff in two... I'm telling you this because you must stay vigilant.\"",
-            "value": "\"Brian的性格完全变了. 他打碎了Elena家里的所有东西, 还把她的牧杖一分为二... 我告诉你这件事是让你保持警惕.\""
+            "value": "\"Brian完全变了. 他打碎了Elena家里的所有东西, 还把她的牧杖一分为二... 我告诉你这件事是让你保持警惕.\""
         },
         {
             "hash": 1410031016513592403,
@@ -653,7 +653,7 @@
         {
             "hash": 17055399603773416108,
             "key": "[p]Worrying that you might end up like Brian, you tentatively ask what happened to him next.",
-            "value": "[p]担心你最终会变得像Brian一样, 你试探性地问后来他怎么样了."
+            "value": "[p]担心你最终会变得像Brian一样, 你试着问后来他怎么样了."
         },
         {
             "hash": 5727175509324014165,
@@ -678,12 +678,12 @@
         {
             "hash": 11817219753170958508,
             "key": "\"Even a small, quaint fishing village like this isn't really safe,\" Willie mutters sadly.",
-            "value": "\"即使是像这样一个古朴的小渔村也不太安全,\" Willie悲伤地喃喃自语."
+            "value": "\"即使是像这样一个古朴的小渔村也不怎么安全,\" Willie悲伤地喃喃自语."
         },
         {
             "hash": 1666274429303010150,
             "key": "\"<player>, are you okay? It might feel a little uncomfortable, but it shouldn't be any worse than a light fever. A little grogginess shouldn't be a problem for you, right?\"",
-            "value": "\"<player>, 你还好吗?你现在可能会感觉有点不舒服, 但应该比轻度发烧好一些. 有点头晕对你来说应该不是问题, 对吧?\""
+            "value": "\"<player>, 你还好吗?你现在可能会感觉有点不舒服, 但应该比发烧要好一些. 有点头晕对你来说应该不是问题, 对吧?\""
         },
         {
             "hash": 824609959692427893,
@@ -708,12 +708,12 @@
         {
             "hash": 8583319084140887725,
             "key": "\"Ah, they've regained their power. Next, I will cast the exorcism spell on you. If it goes as planned, it will remove the Spirit that follows you.\"",
-            "value": "\"啊, 他们恢复了力量. 接下来, 我会对你施驱魔咒语. 如果按计划进行, 它会移除一直跟随你的灵魂.\""
+            "value": "\"啊, 宝石恢复了力量. 接下来, 我会对你释放驱魔咒语. 如果按计划进行, 它会移除跟随你的精灵.\""
         },
         {
             "hash": 9996550109688202461,
             "key": "\"Wonderful!\" Her expression lifts, then suddenly darkens.",
-            "value": "\"精彩!\" 她的表情上扬, 然后突然变黑."
+            "value": "\"漂亮!\" 她的表情上扬, 然后突然变黑."
         },
         {
             "hash": 10288138929453883697,
@@ -733,17 +733,17 @@
         {
             "hash": 2574731472533926007,
             "key": "[p]A warm mist fills the air. Elena's magic makes you feel as though you are floating, which makes sense, because when you open your eyes, you are hovering in midair.",
-            "value": "[p]温暖的薄雾弥漫在空气中. Elena的魔法让你感觉自己在漂浮, 这是有道理的, 因为当你睁开眼睛时, 你就在半空中盘旋."
+            "value": "[p]温暖的薄雾弥漫在空气中. Elena的魔法让你感觉自己在漂浮..."
         },
         {
             "hash": 10241984373341974485,
             "key": "[p]You try to relax as the winds whips around you, but you can't help but let out a small shriek of surprise.",
-            "value": "[p]当风在你周围呼啸时, 你试着放轻松, 但是你忍不住发出一声小小的惊叫."
+            "value": "[p]当风在你周围呼啸时, 你试着放轻松."
         },
         {
             "hash": 15383225134257754380,
             "key": "\"This is the Water Gem, Tree Gem, and Magic Gem. You should go to the Wharf, Logging Site, and Ruins with the corresponding gems.\"",
-            "value": "\"这些是水宝石, 树宝石和魔法宝石. 你应该带着相应的宝石去到码头, 伐木场和遗迹废墟.\""
+            "value": "\"这些是水宝石, 自然宝石和魔法宝石. 你应该带着宝石去到工匠让他们恢复能量.\""
         },
         {
             "hash": 3386706575573081545,
@@ -763,17 +763,17 @@
         {
             "hash": 14839763927622072661,
             "key": "[p]The spirit that had haunted you ominously changes its form into a creature you have never seen before.",
-            "value": "[p]曾经一直困扰着你的灵魂将形态变成了一种你从未见过的生物"
+            "value": "[p]曾经一直困扰着你的灵魂变成了一种你从未见过的生物"
         },
         {
             "hash": 10970430549079153698,
             "key": "[p]Willie and Elena's conversation makes you dizzy and you can hardly focus on their words. Trying to guide the subject away from the weird creature, you ask Willie where you can find Kane.",
-            "value": "[p]Willie和Elena的谈话让你头痛欲裂, 你几乎无法集中精力听他们说话. 为了引导话题远离这个奇怪的生物, 你问Willie在哪里能找到Kane."
+            "value": "[p]Willie和Elena的谈话让你头痛欲裂, 你无法集中精力听他们说话. 为了引导话题远离这个奇怪的生物, 你问Willie在哪里能找到Kane."
         },
         {
             "hash": 3209878098136910910,
             "key": "\"The Garrison Captain is currently in the north-eastern corner of the forest. Reports were saying that Brian was spotted hiding in a nearby cave.\"",
-            "value": "\"护卫队的上尉目前在森林的东北角. 报道说, 有人发现Brian躲在附近的一个山洞里.\""
+            "value": "\"护卫队的上尉目前在森林的东北角. 听说有人发现Brian躲在附近的一个山洞里.\""
         },
         {
             "hash": 13099362719317117897,
@@ -783,7 +783,7 @@
         {
             "hash": 7517828136240944119,
             "key": "[bot_42]\"<player>, I think you should seek out Kane in a hurry. Here, let this ostrich take you there. Maybe we can figure out from Brian what kind of... creature this thing is.\"",
-            "value": "[bot_42]\"<player>, 我想你应该尽快找到Kane. 给, 让这只鸵鸟带你去那里. 也许我们可以从Brian那里知道这东西是什么生物.\""
+            "value": "[bot_42]\"<player>, 我想你应该尽快找到Kane. 让这只鸵鸟带你去那里. 也许我们可以从Brian那里知道这东西是什么生物.\""
         },
         {
             "hash": 9014909932867290322,
@@ -793,17 +793,17 @@
         {
             "hash": 5053031170630612407,
             "key": "\"However, if it fails, and the spirit takes you over, I will have no choice but to use my magic to defeat you. Do you understand?\"",
-            "value": "\"但是, 如果失败了, 灵魂接管了你, 我将别无选择, 只能用我的魔法杀死你. 你明白吗?\""
+            "value": "\"但是, 如果失败了, 灵魂接管了你, 我将别无选择, 只能用我的魔法杀死你. 明白吗?\""
         },
         {
             "hash": 2616734101362022243,
             "key": "\"He and the panther ran into the house and attacked me, then broke my staff in two...\"",
-            "value": "\"他和黑豹冲进房子袭击了我, 然后把我的手杖掰成了两半..\""
+            "value": "\"他和黑豹冲进房子袭击了我, 还把我的手杖掰成了两半..\""
         },
         {
             "hash": 11832983680400022320,
             "key": "\"You know you have a Light Orb following you, right? Or am I hallucinating?\"",
-            "value": "\"你应该知道你有一个光球在跟着你, 对吧? 还是我产生幻觉了?\""
+            "value": "\"你应该知道你有一个光球在跟着你, 对吧? 难道我产生幻觉了?\""
         },
         {
             "hash": 14087188015711950995,
@@ -813,7 +813,7 @@
         {
             "hash": 11445411314668995086,
             "key": "\"I'm gonna lend you this amulet. It's a token of friendship between Elena and I. Go to Elena's house with this, and I know she'll come up with a way to help you.\"",
-            "value": "\"我要把这个护身符借给你. 这是Elena和我之间友谊的象征. 带着这个去Elena家, 我知道她会想办法帮你的.\""
+            "value": "\"我要把这个护身符借给你. 这是Elena和我之间友谊的象征. 带着这个去Elena家, 她会想办法帮你的.\""
         },
         {
             "hash": 9336708441140909601,
@@ -823,12 +823,12 @@
         {
             "hash": 9290810115508520550,
             "key": "[p]You explain to Bentley that you need to rid yourself of the spirit. However, you are still determined to find Brian and talk with him.",
-            "value": "[p]Bentley向你解释说你需要摆脱这精灵. 然而, 你仍然决心找到Brian并与他交谈."
+            "value": "[p]Bentley向你解释说你需要想办法摆脱这精灵. 然而, 你仍然决心找到Brian并与他交谈."
         },
         {
             "hash": 4242595920242072883,
             "key": "[p]You feel utterly depressed after hearing that from Bentley. You both gaze at the Spirit warily. Beebis cocks his head, watching the Orb carefully.",
-            "value": "[p]听了Bentley的话, 你感到十分沮丧. 你们两个紧张地注视着. Beebis低着头, 看着Orb."
+            "value": "[p]听了Bentley的话, 你感到十分沮丧. 你们两个紧张地注视着. Beebis也低着头."
         },
         {
             "hash": 6785749781010738153,
@@ -838,12 +838,12 @@
         {
             "hash": 13107983752452922126,
             "key": "Bentley quickly mixes two liquids and applies the viscous solution to his laceration. The endless bleeding from the wound begins to slow. The pained look fades from Bentley's face.",
-            "value": "Bentley快速的将两种液体混合, 并将粘稠的溶液涂抹在伤口上. 一直在流血的伤口渐渐止血了. Bentley脸上痛苦的表情也渐渐消失了."
+            "value": "Bentley将两种液体混合, 并将混合后的粘液涂抹在伤口上. 伤口渐渐止血了. Bentley脸上痛苦的表情也消失了."
         },
         {
             "hash": 13806725209956054124,
             "key": "\"Gasp... gasp... cough, cough!\"",
-            "value": "\"哈呼... 哈呼... 咳咳, 咳咳!\""
+            "value": "\"咳咳咳... 咳咳!\""
         },
         {
             "hash": 17670735015341124802,
@@ -853,7 +853,7 @@
         {
             "hash": 7762711331463598487,
             "key": "\"A bunch of Grass Sprouts reside in the forest. The slime they produce can stop the bleeding and help the wound heal. Please collect some slime and fluid from the sprouts.\"",
-            "value": "\"森林里有一群草芽. 它们产生的黏液可以止血并帮助伤口愈合. 请你从那里收集一些黏液和液体.\""
+            "value": "\"森林里有一群Sprouts. 它们产生的黏液可以止血并帮助伤口愈合. 请你从那里收集一些黏液.\""
         },
         {
             "hash": 449593820233995838,
@@ -868,12 +868,12 @@
         {
             "hash": 10514116925665114312,
             "key": "\"Stop! You take one step forward, and you'll be sorry!\" Fire flashes through Elena's eyes as she prepares to cast magic, but her demeanor immediately softens when she sees the spirit next to you... and her beloved Beebis.",
-            "value": "\"停下! 不要向前走, 你会后悔的!\" Elena准备施放魔法时, 火焰从她的眼睛里闪过, 但当她看到你身边的精灵时, 她的神态立刻变得柔和起来... 和她心爱的Beebis."
+            "value": "\"停下! 不要向前走了!\" Elena准备施放魔法时, 火焰从她的眼睛里闪过, 但当她看到你身边的Beebis时, 她的神态立刻变得柔和起来... "
         },
         {
             "hash": 15472008649242713041,
             "key": "\"You... you have a spirit. That boy Brian, he had one, too,\" Elena recalls coldly. \"At first, I wanted to help him, but his spirit transformed into a sinister black panther.\"",
-            "value": "\"你... 你有一个精灵. 那个男孩Brian, 他也有一个,\" Elena冷冷地回忆道. \"刚开始, 我想帮助他, 但是他的精灵幻化成了一只恐怖的黑豹.\""
+            "value": "\"等下, 你... 你有一个精灵. 那个男孩Brian, 他也有一个,\" Elena冷冷地回忆道. \"刚开始, 我想帮助他, 但是他的精灵幻化成了一只恐怖的黑豹.\""
         },
         {
             "hash": 8181929322122344492,
@@ -888,12 +888,12 @@
         {
             "hash": 381210560553020875,
             "key": "Elena stares at you, suspiciously, before her gaze shifts to Bentley's token.",
-            "value": "Elena怀疑地盯着你, 然后她的目光转向Bentley的令牌."
+            "value": "Elena怀疑地盯着你, 然后她的目光转向Bentley的护身符."
         },
         {
             "hash": 14175029552548921512,
             "key": "\"It's a real surprise. Beebis -- who is usually quite anxious around strangers -- seems to have a certain fondness for you. You must not be very dangerous.\" Elena arches an eyebrow, analyzing you.",
-            "value": "\"这真是一个惊喜. Beebis -- 在别的陌生人面前通常很焦虑 -- 但他似乎对你有某种好感. 你应该不是很危险.\" Elena拱起眉毛, 开始分析你."
+            "value": "\"这真是一个惊喜. Beebis; 在别的陌生人面前通常很焦虑, 但他似乎对你有某种好感. 你应该不是很危险.\" Elena拱起眉毛, 开始分析你."
         },
         {
             "hash": 15337348077990816606,
@@ -903,12 +903,12 @@
         {
             "hash": 5192737929518936807,
             "key": "\"Any friend of Bentley's is a friend of mine. However, you are going to have to help me fix my staff before I can cast any such spell.\"",
-            "value": "\"Bentley的朋友就是我的朋友. 但是, 在我施展这样的咒语之前, 你必须帮我修理好我的牧杖.\""
+            "value": "\"Bentley的朋友就是我的朋友. 但是, 在这之前, 你必须先帮我修理好我的牧杖.\""
         },
         {
             "hash": 4689604012168301434,
             "key": "\"The staff lost all its energy when Brian attacked me. I need your help. You must help me power it up again.\" Elena removes three brightly colored gems from a bag.",
-            "value": "\"Brian袭击我时, 水晶都失去了能量. 我需要你的帮助. 你必须给我的水晶充能.\" Elena从袋子里取出三颗色彩鲜艳的宝石."
+            "value": "\"Brian袭击我时, 所有水晶都失去了能量. 我需要你的帮助. 你要给我的水晶充能.\" Elena从袋子里取出三颗色彩鲜艳的宝石."
         },
         {
             "hash": 18228411778421043131,
@@ -918,7 +918,7 @@
         {
             "hash": 16882208392267459507,
             "key": "\"That was really close, but I've got everything I need.\" Braeden smiles, flushed.",
-            "value": "\"那真的很近, 但我有我需要的一切.\" Braeden满面笑容."
+            "value": "\"时间就要到了, 但我准备好了我需要的一切.\" Braeden满面笑容."
         },
         {
             "hash": 13309454040011627018,
@@ -928,7 +928,7 @@
         {
             "hash": 10917641000177381243,
             "key": "\"I still have to go to my brother's place to get new fishing nets, and I've gotta make sure he's still in the dark about our plans. If you're ready, go ahead. I don't want to give the pirates a reason to start trouble.\"",
-            "value": "\"我得去我哥哥那里买一张新渔网, 我还得确保他对我们的计划一无所知. 如果你准备好了, 就去吧. 我不想给海盗一个开始制造麻烦的理由.\""
+            "value": "\"我得去我哥哥那里买一张新渔网, 我还得确保他对我们的计划一无所知. 你准备好了就去吧. 我不想给海盗一个制造麻烦的理由.\""
         },
         {
             "hash": 17053506893013746724,
@@ -938,7 +938,7 @@
         {
             "hash": 2397566752767544460,
             "key": "[p]You place the box full of supplies next to the Town Mayor, explaining that these are the items Braeden is supposed to collect. Everything is accounted for within the box.",
-            "value": "[p]你把装满补给的盒子放在镇长旁边, 解释说这些是Braeden应该收集的物品. 都已经准备好了."
+            "value": "[p]你把装满补给的盒子放在镇长旁边, 解释说这些是Braeden应该收集的补给. 都已经准备好了."
         },
         {
             "hash": 10707671724973596600,
@@ -948,12 +948,12 @@
         {
             "hash": 10957262172359086369,
             "key": "\"There's nothing wrong with the content deciphered by Flower. So why on earth would the creator choose a small, insignificant place like Skandia?\"",
-            "value": "\"Flower破译的内容没有错. 那么, 为什么造物主会选择像Skandia这样一个微不足道的小地方呢?\""
+            "value": "\"Flower破译的内容没有错. 那么, 为什么造物主会选择像Skandia港口这样一个微不足道的小地方呢?\""
         },
         {
             "hash": 15324896131912016389,
             "key": "\"I'm still not sure what to do. I could get the materials needed to make a new net in the forest, but I've heard that the pirates frequent that area and tend to attack anyone who goes in alone.\"",
-            "value": "\"我仍然不知道该怎么办. 虽然我可以到森林里拿到新网所需的材料, 但是我听说海盗经常在那个地区活动, 并倾向攻击单独进入的人.\""
+            "value": "\"我不知道该怎么办. 虽然我可以到森林里拿到新网所需的材料, 但是我听说海盗经常在那个地区活动, 并倾向攻击单独进入的人.\""
         },
         {
             "hash": 12755143359242655775,
@@ -963,17 +963,17 @@
         {
             "hash": 15280290566321968240,
             "key": "\"I'm lucky to have your help - and my brother's too. You caught those dastardly birds a lot faster than I could've. Heck, even if I had a few days, I'm not sure I'd be able to catch 'em.\"",
-            "value": "\"我很幸运有你的帮助, 我的哥哥也是. 你抓那些鸟的速度比我快得多. 见鬼, 即使我有好几天的时间, 我也不保证你能抓住他们.\""
+            "value": "\"我很幸运有你的帮助, 我的哥哥也是. 你抓那些鸟的速度比我快得多. 即使我有好几天的时间, 我也不保证我能抓住他们.\""
         },
         {
             "hash": 17334626300290247548,
             "key": "<player>, are you zoning out? I thought you said you were supposed to deliver some goods to <bot_10>. You're an official garrison member; I shouldn't need to remind you to do your job!",
-            "value": "<player>, 你在分区吗? 我想你说过你要把一些货物送到＜bot_10＞. 你是正式的卫队成员; 我不需要提醒你做好你自己的工作!"
+            "value": "<player>, 我想你说过你要把一些货物送到<bot_10>. 你是正式的卫队成员; 我不需要提醒你做好你自己的工作!"
         },
         {
             "hash": 13422066826400434918,
             "key": "I like you a lot; don't let me down. The boss wants to discuss something with me, so go ahead and meed with the Chief's Wife.",
-            "value": "我很喜欢你; 所以不要让我失望. 老板想和我讨论一些事情, 你先去去见首领的妻子吧."
+            "value": "不要让我失望. 老板想和我讨论一些事情, 你先去去见首领的妻子吧."
         },
         {
             "hash": 5143802215085749349,
@@ -1003,7 +1003,7 @@
         {
             "hash": 14792207835546972475,
             "key": "\"Hey, if it's really urgent, go and talk to her. The worst thing she can say is 'no.'\"",
-            "value": "\"嘿, 如果你真的很紧急, 去和她谈谈. 她能说的最糟糕的话就是'不.'\""
+            "value": "\"如果你真的很紧急, 去和她谈谈. 她能说的最糟糕的话就是'不.'\""
         },
         {
             "hash": 9610041634457835420,
@@ -1028,7 +1028,7 @@
         {
             "hash": 5763393052292393631,
             "key": "\"While fishing, I accidentally caught a stone in my net, and it totally shredded the mesh. I need that net! Without it, my livelihood is all but destroyed.\"",
-            "value": "\"我在钓鱼的时候, 不小心在网到了一块石头, 它把网完全撕碎了. 我需要那张网! 没有它, 我几乎无法生活!\""
+            "value": "\"我在钓鱼的时候, 不小心在网到了一块石头, 它把网完全撕碎了. 我需要那张网! 我不能没有它!\""
         },
         {
             "hash": 8602412566800473419,
@@ -1048,7 +1048,7 @@
         {
             "hash": 13093211017332410069,
             "key": "\"My foolish brother! I wonder if he took my words to heart. He needs to focus on fishing, not provoking pirates.\"",
-            "value": "\"我愚蠢的兄弟! 我想知道他有没有把我的话记在心里. 他只需要专注于捕鱼, 而不是挑衅海盗.\""
+            "value": "\"我愚蠢的弟弟! 我想知道他有没有把我的话记在心里. 他只需要专注于捕鱼, 而不是挑衅海盗.\""
         },
         {
             "hash": 3972467288423147793,
@@ -1068,7 +1068,7 @@
         {
             "hash": 12938396869769610237,
             "key": "\"Thank you so much.\"",
-            "value": "\"非常感谢.\""
+            "value": "\"非常感谢!\""
         },
         {
             "hash": 18395360272198150853,
@@ -1083,7 +1083,7 @@
         {
             "hash": 7159300098032787166,
             "key": "\"I fear that even Braeden collected so many Thin Vines, he doesn't have the parrots the pirates are after... and I've still got the cages.\"",
-            "value": "\"我恐怕即使Braeden收集了这么多细藤蔓, 他也没有海盗想要的鹦鹉... 但我还有笼子.\""
+            "value": "\"我恐怕即使Braeden收集了这么多细藤蔓, 他也没有海盗想要的鹦鹉... 但是我还有笼子.\""
         },
         {
             "hash": 13343226716423861153,
@@ -1098,17 +1098,17 @@
         {
             "hash": 13770724518079949955,
             "key": "[p]You are momentarily taken aback. If Isaac finds Braeden, he'll definitely learn about the counterattack plan. Casually, you ask why he needs to find his brothers.",
-            "value": "[p]你突然大吃一惊. 如果lsaac找到Braeden, 他一定会知道反击计划的. 你顺便问他为什么要找他的兄弟."
+            "value": "[p]你突然大吃一惊. 如果lsaac找到Braeden, 他一定会知道反击计划的. 你赶紧问他为什么要找Braeden."
         },
         {
             "hash": 9696098919948327374,
             "key": "\"Don't be afraid, son. Hush. Daddy's here. It will all be alright.\" York glances at you with unease. Will it really be okay?",
-            "value": "\"别害怕, 儿子. 爸爸来了. 一切都会好起来的.\" York不安地看了你一眼. 真的可以吗?"
+            "value": "\"别害怕, 儿子. 爸爸来了. 一切都会好起来的.\" York不安地看了你一眼."
         },
         {
             "hash": 12066495649057112081,
             "key": "\"<player>, I owe you big time... But, um, could you tell us exactly what happened?\"",
-            "value": "\"<player>, 我欠你很多时间... 但是, 你能告诉我们到底发生了什么吗?\""
+            "value": "\"<player>, 我欠你很多人情... 但是, 你能告诉我们到底发生了什么吗?\""
         },
         {
             "hash": 9504790527046017633,
@@ -1118,7 +1118,7 @@
         {
             "hash": 10930075401107182573,
             "key": "\"Go to Helonia Woods. Catch the parrots. We fishermen mostly focus on, you know, fishing, so the pirates' request isn't an easy one for us. And the parrots aren't exactly the friendliest birds ever...\"",
-            "value": "\"去赫Helonia森林. 抓住鹦鹉. 你要知道, 我们渔民基本都专注于捕鱼, 所以海盗的要求对我们来说并不容易. 鹦鹉也不是什么友好的鸟...\""
+            "value": "\"去Helonia的森林抓住鹦鹉. 你要知道, 我们渔民基本都专注于捕鱼, 所以海盗的要求对我们来说并不容易. 而且鹦鹉也不是什么友好的鸟...\""
         },
         {
             "hash": 896983511808627890,
@@ -1128,7 +1128,7 @@
         {
             "hash": 12309677653026795657,
             "key": "\"I feel like I'm forgetting something... eh, I'm sure it wasn't that important.\"",
-            "value": "\"我觉得我忘记了什么... 呃, 我想那不是很重要...\""
+            "value": "\"我觉得我忘记了什么... 呃, 我想那不是很重要...?\""
         },
         {
             "hash": 11953704699719302244,
@@ -1138,7 +1138,7 @@
         {
             "hash": 707853117788403293,
             "key": "\"I knew I was forgetting something! I nearly let a bunch of stupid birds ruin the whole plan!\" Braeden groans, pulling at his hair.",
-            "value": "\"我就知道我忘了什么! 我差点让一群愚蠢的鸟毁了整个计划!\" Braeden扯着头发呻吟着."
+            "value": "\"我就知道我忘了什么! 我差点让一群愚蠢的鸟毁了整个计划!\" Braeden扯着头发大叫着."
         },
         {
             "hash": 4180437491619635978,
@@ -1188,7 +1188,7 @@
         {
             "hash": 9206402808795735089,
             "key": "\"He firmly believed he was cursed by an evil spell, so he wanted to ask Elena for help. But the next day...\"",
-            "value": "\"他坚信自己被魔咒诅咒了, 所以他想向Elena寻求帮助. 但第二天...\""
+            "value": "\"他坚信自己被魔咒诅咒了, 所以他想向Elena寻求帮助. 但是第二天...\""
         },
         {
             "hash": 2509787489571944063,
@@ -1198,7 +1198,7 @@
         {
             "hash": 17941964023852850841,
             "key": "\"Not long ago, a teenaged boy named Brian came looking for Elena. Just like you, he also had a spirit with him.\"",
-            "value": "\"不久前, 一个叫Brian的十几岁男孩来找Elena. 就像你一样, 他也有一种精灵.\""
+            "value": "\"不久前, 一个叫Brian的十几岁男孩来找Elena. 就像你一样, 他也有一只精灵.\""
         },
         {
             "hash": 1172811536872008076,
@@ -1283,7 +1283,7 @@
         {
             "hash": 7315174682176533798,
             "key": "Block post",
-            "value": "Block post"
+            "value": "森林"
         },
         {
             "hash": 2965410948615232813,
@@ -1373,12 +1373,12 @@
         {
             "hash": 4590828921225437309,
             "key": "\"You know what? You're right. I didn't think of that. We can't just blatantly resist them.\"",
-            "value": "\"你知道吗? 你说得对. 我们不能公然抵制他们.\""
+            "value": "\"你说得对. 我们不能公然抵制他们.\""
         },
         {
             "hash": 17366489214733334333,
             "key": "\"I'll prepare the supplies for the pirates, but I have a few tricks up my sleeve.\"",
-            "value": "\"我会为海盗准备补给, 但我有一些想法.\""
+            "value": "\"我会为海盗准备一些补给, 但我有一些想法.\""
         },
         {
             "hash": 623289865124091347,
@@ -1388,12 +1388,12 @@
         {
             "hash": 18134730859774566531,
             "key": "\"You know, I just met you, but I think we're gonna get along just fine.\" Braeden grins.",
-            "value": "\"我刚认识你, 但我想我们会相处得很好.\" Braeden咧嘴笑."
+            "value": "\"我刚认识你, 但我想我们会相处得很好.\" Braeden笑了笑."
         },
         {
             "hash": 4719703238767122476,
             "key": "\"Count me in. I've got some ideas on how to take down the pirates. I'll prepare all the supplies before executing the plan.",
-            "value": "\"把我算在内. 我对如何打击海盗有一些想法. 在执行计划之前, 我会准备好所有需要的物资."
+            "value": "\"我对如何打击海盗有一些想法. 在执行计划之前, 我会准备好所有需要的物资."
         },
         {
             "hash": 8373658306122616940,
@@ -1403,7 +1403,7 @@
         {
             "hash": 13390108040811555011,
             "key": "\"It won't be so easy to get the fish to the pirates, though.\" Braeden bites his lips, thinking.",
-            "value": "\"不过, 要把鱼都交给海盗可不是那么容易.\" Braeden咬着嘴唇, 心想."
+            "value": "\"不过, 要把鱼都交给海盗可不是那么容易.\" Braeden咬着嘴唇."
         },
         {
             "hash": 12018573809475925359,
@@ -1428,7 +1428,7 @@
         {
             "hash": 5215923755721507435,
             "key": "They just never shut up! I'm begging you. Please get rid of them; I've had a migraine for months!\"",
-            "value": "他们就是一直不闭嘴! 我求求你了. 请把他们赶走; 我已经偏头痛好几个月了!\""
+            "value": "他们就是一直不闭嘴! 我求求你了. 请把他们赶走; 我已经头痛好几个月了!\""
         },
         {
             "hash": 18279036897598619611,
@@ -1453,7 +1453,7 @@
         {
             "hash": 4274991731692029637,
             "key": "\"I had no idea you had such battle prowess. You could teach me a thing or two, partner.\"",
-            "value": "\"我不知道你有这样的战斗力. 你可以教我一两件事, 伙计.\""
+            "value": "\"我真不知道你有这样的战斗力, 伙计.\""
         },
         {
             "hash": 10468893963702617055,
@@ -1463,7 +1463,7 @@
         {
             "hash": 16878816778809272057,
             "key": "\"I plan to lead the entire band of pirates to an open area, then use gunpowder to blast 'em to high heaven in one fell swoop.\"",
-            "value": "\"我打算把所有海盗带到一个开阔的地方, 然后用火药把他们都炸到地狱!\""
+            "value": "\"我打算把所有海盗带到一个开阔的地方, 然后用炸弹把他们都炸上天!\""
         },
         {
             "hash": 17218635123406111956,
@@ -1508,7 +1508,7 @@
         {
             "hash": 16805827620171228342,
             "key": "\"I've considered the options carefully, but the best place for our plan is at the beach right in front of us.\"",
-            "value": "\"我仔细考虑了各种选择, 但是我们计划的最佳地点就是面前的海滩。\""
+            "value": "\"我仔细考虑了各种选择, 但是我们计划的最佳地点就是面前的海滩.\""
         },
         {
             "hash": 17732014129142240020,
@@ -1543,7 +1543,7 @@
         {
             "hash": 6690666568261244403,
             "key": "\"Collect some of the nearby Fruit. Once we soak and dry 'em, we can use them as shrapnel. That'll give our bomb some extra punch.\"",
-            "value": "\"收集一些附近的水果. 把它们浸泡和干燥, 我们就可以把它们当作弹片使用. 这可以给我们的炸弹带来额外的威力!\""
+            "value": "\"收集一些附近的水果. 把它们浸泡后再晾干, 我们就可以把它们当作弹片使用. 这可以给我们的炸弹带来额外的威力!\""
         },
         {
             "hash": 2068609616434446336,
@@ -1613,7 +1613,7 @@
         {
             "hash": 11170335775036380498,
             "key": "\"Now onto the next step of my plan,\" Braeden exclaims.",
-            "value": "\"现在进入计划的下一步,\" Braeden惊呼道."
+            "value": "\"现在进入计划的下一步!\" Braeden叫道."
         },
         {
             "hash": 13071216438922996416,
@@ -1623,7 +1623,7 @@
         {
             "hash": 812568975136862984,
             "key": "\"This is the beginning of the next step of my plan. We should distribute these flyers to the townspeople. We've got to incite the anger in them; they hate those dastardly pirates, but they're too afraid to fight back. Appeal to the townsfolk to stand together against the pirates.\"",
-            "value": "\"这是我下一步的计划. 我们把这些传单分发给市民. 我们应该激起他们的愤怒; 他们憎恨那群卑鄙的海盗, 但他们太害怕了, 不敢反击. 我们还要呼吁市民团结起来反对海盗.\""
+            "value": "\"这是我下一步的计划. 我们把这些传单分发给市民. 我们应该激起他们的愤怒; 他们憎恨那群卑鄙的海盗, 但他们害怕, 不敢反击. 我们还要呼吁市民团结起来反对海盗.\""
         },
         {
             "hash": 9096335667291207566,
@@ -1668,7 +1668,7 @@
         {
             "hash": 3134104161384052709,
             "key": "\"You are quite skilled. Nice attention to detail. Good job!\" Braeden gives you the thumbs up as he carefully looks over the bombs.",
-            "value": "\"你很熟练. 还很注重细节. 干得好!\" Braeden仔细地看着炸弹, 竖起大拇指."
+            "value": "\"你很熟练. 还很注重细节. 干得好!\" Braeden仔细地看着炸弹."
         },
         {
             "hash": 10437543688750542264,
@@ -1748,7 +1748,7 @@
         {
             "hash": 9535118113888933874,
             "key": "Lately, numerous <bot_20>hops have migrated to the Logging Site. The naughty troublemakers make a mess all day long. Workmen complain constantly about picking up their, er, 'jelly beans.'",
-            "value": "最近, 有许多<bot_20>迁移到了伐木场. 那些顽皮的捣蛋鬼整天把事情弄得一团糟. 工人们不断抱怨他们的, 呃, '果冻豆.'"
+            "value": "最近, 有许多Bunny迁移到了伐木场. 那些顽皮的捣蛋鬼整天把事情弄得一团糟. 工人们不断再抱怨它们."
         },
         {
             "hash": 13489666351200636324,
@@ -1783,7 +1783,7 @@
         {
             "hash": 1148379438577971260,
             "key": "\"Oh! You've brought a lot of Insect Fluid! Quick, let me take a look.\" Braeden snatches the vial of Insect Fluid out of your hands before you have a chance to respond.",
-            "value": "\"哦你带来了很多昆虫液体! 快, 让我看看.\" Braeden在你有机会回应之前从你手中抢走了一小瓶昆虫汁液."
+            "value": "\"哦你带来了很多昆虫汁液! 快, 让我看看.\" Braeden在你有机会回应之前从你手中抢走了一瓶昆虫汁液."
         },
         {
             "hash": 4738843427267537358,
@@ -1828,12 +1828,12 @@
         {
             "hash": 1537876834063188768,
             "key": "\"Your apology is quite sincere. I forgive you. And I do have another task,\" <bot_10> says with a kind smile.",
-            "value": "\"你的道歉很真诚. 我可以原谅你. 但我还有另一项任务,\" <bot_10> 微笑着说."
+            "value": "\"你的道歉很真诚. 我可以原谅你. 但我还有另一项任务,\"<bot_10>笑着说."
         },
         {
             "hash": 6803651276352725173,
             "key": "You'll find a good deal of wood in the area. I need you to carry it to me.",
-            "value": "你会在这个地区找到一些木材. 我需要你把它带给我."
+            "value": "你会在这个地区找到一些木材. 我需要你把它带给我. ( 再次点击f4 )"
         },
         {
             "hash": 14840411738735821918,
@@ -1853,12 +1853,12 @@
         {
             "hash": 16011981553089055938,
             "key": "\"Not bad for a newbie.\"\n\n <bot_18> is clearly satisfied by the reduced number of <bot_20>hops.",
-            "value": "\"对新手来说还不错.\"\n\n <bot_18> 显然对<bot_20>被逐出次数的减少感到满意."
+            "value": "\"对新手来说还不错.\"\n\n <bot_18>显然对<bot_20>数量的减少感到满意."
         },
         {
             "hash": 8853943301018517306,
             "key": "\"We have three days to deliver to the furniture shop. We cannot be late.\"\n\n <bot_18> snaps, scanning a list.",
-            "value": "\"我们有三天时间送到家具店. 我们不能迟到.\"\n\n <bot_18> 打开扫描列表."
+            "value": "\"我们有三天时间送到村里. 我们不能迟到.\"\n\n <bot_18>打开了扫描列表."
         },
         {
             "hash": 16291227522251957453,
@@ -1868,12 +1868,12 @@
         {
             "hash": 16068731296860174150,
             "key": "We cannot let those rascally rabbits slow us down. If the wood is not delivered to the village fast enough, construction there will be delayed.",
-            "value": "我们不能让那些烦人的兔子拖慢我们. 如果木材不能快速地运到村里, 那里的建设就会推迟."
+            "value": "我们不能让那些烦人的Bunny拖慢我们. 如果木材不能快速地运到村里, 那里的建设就会推迟."
         },
         {
             "hash": 17482213061349518152,
             "key": "<bot_22> typically pile up the chopped wood under another tree. Take a walk around the Logging Site. It shouldn't be hard to find the wood.",
-            "value": "<bot_22> 通常将砍下的木头堆在另一棵树下. 在伐木场周围散散步. 找木头应该不难."
+            "value": "Lumberjacks通常将砍下的木头堆在另一棵树下. 在伐木场周围散散步. 找木头应该不难."
         },
         {
             "hash": 18110661251239866908,
@@ -1893,12 +1893,12 @@
         {
             "hash": 15043884220511902757,
             "key": "Did <bot_16> ask you to come here? Excellent. I was just wondering what the Garrison Members in the village normally do during the day. They just hang about the forest. They might as well be here doing something productive for once.",
-            "value": "<bot_16>邀请你来这里了吗? 我只想知道村里的卫队人员白天都做什么. 他们只是在森林里闲逛. 他们不如在这里做一次有用事情."
+            "value": "小子, <bot_16>邀请你来这里了吗? 我只想知道村里的卫队人员白天都做什么. 他们只是在森林里闲逛. 他们不如在这里做一次有用事情."
         },
         {
             "hash": 17358713634316059815,
             "key": "\"This boy <bot_19> is a fool! He only makes work harder for me! Unless we're short workers, I'd fire him right away!\"\n\n <bot_18> grumbles to himself. It seems that working at the Logging Site is quite arduous.",
-            "value": "\"这小子是个傻子! 他只会让我努力工作! 要不是我们人手不足, 否则我会立即解雇他!\"\n\n <bot_18> 自言自语. 看来在伐木场工作相当艰巨."
+            "value": "\"这小子是个傻子! 他只会让我努力工作! 要不是我们人手不足, 否则我会立即解雇他!\"\n\n <bot_18>自言自语. 看来在伐木场工作相当艰巨."
         },
         {
             "hash": 10303874733011353589,
@@ -1913,7 +1913,7 @@
         {
             "hash": 9348793141477231374,
             "key": "What are those <bot_21> doing now? It's late, and they haven't brought the wood back yet.",
-            "value": "那些<bot_21>人现在在做什么? 已经很晚了, 他们还没有把木头带回来."
+            "value": "那些<bot_12>现在在做什么? 已经很晚了, 他们还没有把木头带回来!"
         },
         {
             "hash": 13439188090627692859,
@@ -1963,37 +1963,37 @@
         {
             "hash": 10882978853539282093,
             "key": "\"If you argue again, I'll take away your breaks,\" <bot_18> growls, glaring.",
-            "value": "\"如果你再争论, 我会取消你的休息时间,\" <bot_18> 愤怒的看着你."
+            "value": "\"如果你再争论, 我会取消你的休息时间,\" <bot_18>愤怒的看着他."
         },
         {
             "hash": 8625756660679627897,
             "key": "[bot_22]Fine, fine. I know I made a mistake. I won't do it again.",
-            "value": "[bot_22]好, 好. 我知道我犯了一个错误. 我不会再犯了."
+            "value": "[bot_22]好, 好, 我知道我犯了一个错误. 我不会再犯了."
         },
         {
             "hash": 1544937784327658954,
             "key": "<player>, you have impressed me. I think I can recommend <bot_23> to you, you can make more money with it than working at the <world_1>.",
-            "value": "<player>, 你给我留下了十分深刻的印象. 我想我可以向你推荐<bot_23>, 你可以用它赚比在<world_1>工作更多的钱!"
+            "value": "<player>, 你给我留下了十分深刻的印象. 我想我可以向你推荐<bot_23>, 你可以在它那赚比在<world_1>工作更多的钱!"
         },
         {
             "hash": 3087409276044007700,
             "key": "[p]You nervously explain to <bot_18> that you know nothing about medicine, and you don't want to be a burden to the doctor.",
-            "value": "[p]你紧张地向<bot_18>解释说, 你对医学一无所知, 你不想成为医生的负担."
+            "value": "[p]你紧张地向Caine解释说, 你对医学一无所知, 你不想成为医生的负担."
         },
         {
             "hash": 12069560188756430242,
             "key": "Oh, c'mon. It can't be that hard! You only go to school for, what, eleven, twelve years to become a doctor? No biggie. Just look at it as a learning experience.",
-            "value": "哦, 来吧. 不会那么难的! 你只需要上学, 什么? 11, 12年才能成为一名医生? 没什么大不了的. 把它看作是一种学习经历."
+            "value": "哦, 来吧. 不会那么难的! 你只需要上学, 什么? 学习11, 12年才能成为一名医生? 没什么大不了的."
         },
         {
             "hash": 1393155412820743863,
             "key": "See for yourself. <player>, who started working here just today, has contributed more to our project in one day than you have in your career. Shame on you!",
-            "value": "亲眼看看, 今天刚开始在这里工作的 <player> 在一天内为我们的项目做出了比你整个职业生涯中更多的贡献. 你真可耻!"
+            "value": "亲眼看看, 今天刚开始在这里工作的<player>在一天内为我们的项目做出了比你整个职业生涯中更多的贡献. 你真可耻!"
         },
         {
             "hash": 4474785796029483859,
             "key": "From now on, everyone will treat you as an adult. Perhaps you'll travel the world, meeting maharajas and princesses. Or maybe you'll just live and work in this fishing port all your life. You know, either way.",
-            "value": "从现在起, 大家都会把你当成一个成人. 也许你会环游世界, 见到王公和公主. 也许你会在这个渔港生活和工作一辈子. 您要知道, 无论哪种发生."
+            "value": "从现在起, 大家都会把你当成一个成人. 也许你会环游世界, 见到王公和公主. 也许你会在这个渔港生活和工作一辈子."
         },
         {
             "hash": 128031574374696187,
@@ -2008,12 +2008,12 @@
         {
             "hash": 1586096624844905271,
             "key": "Well, let's forget about the jam. Why don't you treat yourself to some new armor? Being a garrison member in a fishing village is not exactly a dangerous job, but from time to time, you'll need to clear out some monsters, and you'll be happy to have steel between their claws and your heart!",
-            "value": "好吧, 让我们忘记果酱. 你为什么不给自己穿上新的装甲呢? 在渔村当护卫队并不完全是一项危险的工作, 但有时你需要清除一些怪物, 你会很高兴在它们的爪子和你的心脏之间有钢铁!"
+            "value": "好吧, 让我们先忘记果酱. 你为什么不给自己穿上新的装甲呢? 在渔村当护卫队并不是一项简单的工作, 有时你需要清除一些怪物, 你会很高兴在它们的爪子和你的心脏之间有钢铁!"
         },
         {
             "hash": 3597954254051464029,
             "key": "\"Wait, I clearly told <bot_13> that I don't want any jam. It's too sweet. I like my jam salty and sour!\"\n\n <bot_14> huffs.",
-            "value": "\"等等, 我明确告诉<bot_13>我不想要他的果酱. 太甜了. 我喜欢我又甜又酸的果酱!\"\n\n <bot_14> 喘息."
+            "value": "\"等等, 我明确告诉<bot_13>我不想要他的果酱. 太甜了. 我喜欢我又甜又酸的果酱!\"\n\n <bot_14>在喘息."
         },
         {
             "hash": 13442820610893231090,
@@ -2023,7 +2023,7 @@
         {
             "hash": 11737622151086926750,
             "key": "<bot_12> didn't come to the marketplace today. It's a bit odd; he usually stops by.",
-            "value": "<bot_12> 今天没有进入市场. 这有点奇怪; 他通常会到市场停下来."
+            "value": "<bot_12>今天都没有来市场. 这有点奇怪; 他通常会到市场停下来."
         },
         {
             "hash": 3350820844715498149,
@@ -2038,17 +2038,17 @@
         {
             "hash": 10781522789063647488,
             "key": "\"Jam! At last! My toast has been going naked!\"\n\n <bot_15> pops open the jar, dips in his fingers, and slurps up the jelly eagerly.",
-            "value": "\"果酱! 最后! 我的吐司已经赤身裸体了!\"\n\n <bot_15>打开罐子, 用手指蘸着, 急切地吃着果酱."
+            "value": "\"果酱! 是果酱!\"\n\n <bot_15>打开罐子, 用手指蘸着, 急切地吃着果酱."
         },
         {
             "hash": 3692134226702845236,
             "key": "This is so unusual. So you're helping <bot_10> deliver goods today? I suppose you are indeed a real garrison member. Keep up the good work.",
-            "value": "这太不寻常了. 所以你今天在帮＜bot_10＞送货? 我想你是一个真正的卫队军. 继续努力!"
+            "value": "这太不寻常了. 所以你今天在帮<bot_10>送货? 我想你是一个真正的卫队军. 继续努力!"
         },
         {
             "hash": 7279927329885197060,
             "key": "\"Take this hammer and search the site for anyone sleeping on the job. Give 'em a wake up call they won't forget!\"\n\n <bot_18> snarls, his face flushed with fury.",
-            "value": "\"拿起这把锤子, 在站点找所有在工作时睡觉的人. 给他们一个他们不会忘记的警告!\"\n\n <bot_18>咆哮着, 他的脸因愤怒而涨红."
+            "value": "\"拿起这把锤子, 在站点找所有在工作时睡觉的人. 给他们一个他们不会忘记的警告!\"\n\n <bot_18>咆哮着."
         },
         {
             "hash": 17035957775630292352,
@@ -2093,12 +2093,12 @@
         {
             "hash": 16100382458623250178,
             "key": "\"Hasn't anyone seen <bot_12>? Where has that boy gone?\"\n\n <bot_10> glances around anxiously.",
-            "value": "\"难道没有人看到<bot_12> 吗? 那个男孩去哪儿了?\"\n\n <bot_10> 焦急地环顾四周."
+            "value": "\"难道没有人看到<bot_12>吗? 那个男孩去哪儿了?\"\n\n <bot_10>焦急地环顾四周."
         },
         {
             "hash": 10040037476551923069,
             "key": "\"<bot_10> dotes on him. She spoils him. He can play alone once in a while, you know? Who knows, he might grow up to be a great conqueror - if he stops being so darn soft!\"\n\n <bot_16> chortles.",
-            "value": "\"<bot_10>非常宠爱他. 她宠坏了他. 他偶尔可以单独玩一次. 如果他不再那么软弱, 他可能会成为一个伟大的征服者!\"\n\n <bot_16>哈哈大笑."
+            "value": "\"<bot_10>非常宠爱他. 她宠坏了他. 如果他不再那么软弱, 他可能会成为一个伟大的征服者!\"\n\n <bot_16>哈哈大笑."
         },
         {
             "hash": 15590882998832259481,
@@ -2113,12 +2113,12 @@
         {
             "hash": 15681983121659490430,
             "key": "\"Got it. The monster population in the forest has skyrocketed, too. Things are getting rough around here.\"\n\n <bot_16> looks over at you, eyeing the <item_30>.",
-            "value": "\"明白了. 森林里的怪物越来越多. 这里的情况也越来越糟.\"\n\n <bot_16> 看着你, 盯着<item_30>."
+            "value": "\"明白了. 森林里的怪物越来越多. 这里的情况也越来越糟.\"\n\n <bot_16>看着你, 盯着<item_30>."
         },
         {
             "hash": 10517660222718990184,
             "key": "<bot_16> frowns, pacing anxiously as he chats with <bot_17>, the lighthouse manager.",
-            "value": "<bot_16> 皱着眉头, 焦急地踱步, 与<bot_17>灯塔管理员聊天."
+            "value": "<bot_16>皱着眉头, 焦急地踱步, 与<bot_17>灯塔管理员聊天."
         },
         {
             "hash": 6990547798445142418,
@@ -2128,7 +2128,7 @@
         {
             "hash": 18211260882352399424,
             "key": "I ought to go look for him. Could you bring this <item_30> to my husband, <bot_16>? When you see him, ask him to find you a suitable job.",
-            "value": "我应该去找他. 你能把这个带给<item_30>我的丈夫吗<bot_16>？当你见到他时, 请他给你找一份合适的工作."
+            "value": "我应该去找他. 你能把这个<item_30>带给我的丈夫吗<bot_16>？当你见到他时, 请他给你找一份合适的工作."
         },
         {
             "hash": 7975694259841646668,
@@ -2138,12 +2138,12 @@
         {
             "hash": 7095874003817480993,
             "key": "\"I suppose you're right. I have two choices. I can defeat the Ruins Giant that stole the translation information... Or I can spend a few days retranslating the ancient spells in Navea.\"\n",
-            "value": "\"我想你是对的. 我有两个选择: 我可以打败那个偷走翻译信息的Ruins Giant... 或者我可以花几天时间重新翻译Navea的古代咒语。\"\n"
+            "value": "\"我想你是对的. 我有两个选择: 打败那个偷走翻译信息的Ruins Giant... 或者花几天时间重新翻译Navea的古代咒语。\"\n"
         },
         {
             "hash": 6009548368082353097,
             "key": "[p]You shake your head and tell her that none of the merchants have seen him today. Hearing this, <bot_10>'s irritation starts to turn to worry.",
-            "value": "[p]你摇摇头, 告诉她今天没有一个商人见过他. 听到这里, <bot_10>的愤怒开始转变为担忧."
+            "value": "[p]你摇摇头, 告诉她今天没有一个商人见过他. 听到这里, <bot_12>的愤怒开始转变为担忧."
         },
         {
             "hash": 109539059766167866,
@@ -2153,12 +2153,12 @@
         {
             "hash": 10815893320102861010,
             "key": "\"Have you delivered the jam? You've truly grown; it's time for you to start saving your money.\"\n\n <bot_10> places some gleaming coins in your palm and closes your fingers around them.",
-            "value": "\"你把果酱送了吗? 你真的长大了; 是时候开始省钱了.\"\n\n <bot_10> 将一些闪闪发光的硬币放在手掌中, 然后用手指合拢它们."
+            "value": "\"你把果酱送了吗? 你真的长大了; 是时候开始省钱了.\"\n\n <bot_10>将一些闪闪发光的硬币放在手掌中, 然后用手指合拢它们."
         },
         {
             "hash": 14914451239558124716,
             "key": "<bot_12>? No, I haven't seen him today.",
-            "value": "<bot_12>? 不, 我今天没见过他."
+            "value": "Joel? 不, 我今天没见过他."
         },
         {
             "hash": 3399040635497204496,
@@ -2168,32 +2168,32 @@
         {
             "hash": 16143657299438071430,
             "key": "I'll give you a tip, jelly kid. When you have time, just visit weapon shops in different places. You might find exceptionally good weaponry at reasonable prices!",
-            "value": "我给你小费, '果冻小子'. 当你有时间的时候, 只需参观不同地方的武器商店. 你可能会以合理的价格找到非常好的武器!"
+            "value": "我给你小费, '果酱小子'. 当你有时间的时候, 只需参观不同地方的武器商店. 你可能会以合理的价格找到非常好的武器!"
         },
         {
             "hash": 15255764621545538157,
             "key": "Impressive, right? These weapons all come from abroad! This one here, for instance, is the <item_3>, a symbol of power. And over there is the <item_5>.",
-            "value": "令人印象深刻, 对吧? 这些武器都来自国外! 比如: 这里的这个是<item_3>, 是权力的象征. 那边是<item_5>."
+            "value": "令人印象深刻, 对吧? 这些武器都来自国外! 比如: 这里的这个是<item_3>, 那边是<item_5>."
         },
         {
             "hash": 3740354017484560161,
             "key": "\"Mmm! <bot_13> was right. The jam is perfectly sweet and tart. Would you like some? I promise my fingers are clean.\"\n\n <bot_15> follows your gaze to the newly produced weapons.",
-            "value": "\"emm! <bot_13>是对的. 果酱又甜又酸. 你想要一些吗? 我保证我的手指是干净的.\"\n\n <bot_15>注视着新生产的武器."
+            "value": "\"emm! <bot_13>是对的. 果酱又甜又酸. 你想要一些吗? 我保证我的手指是干净的.\"\n\n <bot_13>注视着新生产的武器."
         },
         {
             "hash": 13683672048611937085,
             "key": "I don't understand. I've never seen anyone react this way to my medicine. A possible allergy... no... impossible! I'm just as interested in finding out what's going on as you are!",
-            "value": "我不明白. 我从来没有见过有人对我的药有这种反应. 可能是过敏... 不… 不可能! 我和你一样想知道发生了什么!"
+            "value": "我不明白. 我从来没有见过有人对我的药有这种反应. 应该不是过敏... 不… 不可能!"
         },
         {
             "hash": 9878011284361087256,
             "key": "[p]Hearing that the same thing had happened to Flower sparks hope in your heart. However, you notice that she is focused on the machine in your hands.",
-            "value": "[p]听说Flower也发生了同样的事情, 你心中燃起了希望. 然而, 你注意到她专注于你手中的机器."
+            "value": "[p]听说Flower曾经发生过同样的事情, 你的心中又燃起了希望."
         },
         {
             "hash": 12014897425511146596,
             "key": "\"If I can help you, I'm more than willing to do so. I've seen something like this before. There was a spirit - a Light Orb - following me, but...\"",
-            "value": "\"如果我能帮助你, 我非常愿意. 我以前见过这样的事情. 有一个精灵 - 一个光球跟着我, 但是...\""
+            "value": "\"如果我能帮助你, 我非常愿意. 我以前见过这样的事情. 有一个精灵: 一个光球跟着我, 但是...\""
         },
         {
             "hash": 10644542598696210825,
@@ -2203,27 +2203,27 @@
         {
             "hash": 16129869841651186580,
             "key": "\"You, too...\" <bot_33> murmurs to herself as she stares at the Light Orb.",
-            "value": "\"你也是...\" <bot_33> 她盯着光球喃喃自语."
+            "value": "\"你也是...\" <bot_33>r盯着光球喃喃自语."
         },
         {
             "hash": 1197003045375977563,
             "key": "[p]You appear in front of <bot_33>. The look on her face betrays an overwhelming sense of horror.",
-            "value": "[p]你出现在<bot_33> 面前. 她脸上的表情出现了一种压倒性的恐惧感."
+            "value": "[p]你突然现在<bot_33>面前. 她被吓了一跳."
         },
         {
             "hash": 1176161457901062443,
             "key": "\"He can't have gone too far...\"\n\n She hangs her head, looking despondently at the <item_30> in her hand.",
-            "value": "\"他不可能走得太远...\"\n\n 她垂下头, 沮丧地看着手中的<item_30>."
+            "value": "\"他不可能走得太远...\"\n\n 她低下头, 沮丧地看着手中的午餐盒."
         },
         {
             "hash": 12178723111141070659,
             "key": "I didn't forget. But working for <bot_18> is no picnic. Very few are willing to work backbreaking hours at the Logging Site, and <bot_18>'s not exactly Mr. Personality.",
-            "value": "我没有忘记. 但为<bot_18>工作绝非易事. 很少有人愿意在伐木场加班, 而且<bot_18> 不是一个有个性的人"
+            "value": "我没有忘记. 但为<bot_18>工作绝非易事. 很少有人愿意在伐木场加班, 而且Caine并不是怎么热情的人"
         },
         {
             "hash": 10662631406172530109,
             "key": "[bot_17]<bot_16>, you said you needed someone to replace one of <bot_18>'s... less enthusiastic workers. How could you forget so quickly?",
-            "value": "[bot_17]<bot_16>, 你说你需要有人来替换<bot_18>那个不那么热情的员工. 你怎么会这么快忘记?"
+            "value": "[bot_17]<bot_16>, 你说你需要有人来替换<bot_18>那个不那么热情的员工. 你怎么这么快就忘了?"
         },
         {
             "hash": 7082056099082366711,
@@ -2233,17 +2233,17 @@
         {
             "hash": 17198007252119228610,
             "key": "All I can say is, <player>, um... don't worry... Just get yourself to the Statue Ruins right away. There, you'll find the Witch's Assistant, <bot_33>. Perhaps she can help.",
-            "value": "我只能说, <player>, 嗯… 别担心... 去雕像废墟吧. 在那里, 你会找到女巫的助手, <bot_33>. 也许她能帮上忙."
+            "value": "我只能说, <player>, 别担心... 去雕像废墟看看吧. 在那里你会找到女巫的助手, <bot_33>. 她也许能帮上忙."
         },
         {
             "hash": 14196724018063334186,
             "key": "[p]A moment of awkward silence passes, and then... <bot_23> -- thinking carefully -- lets out a long breath.",
-            "value": "[p]一阵尴尬的沉默过去了, 然后<bot_23> - 仔细思考 - 长长地喘了一口气."
+            "value": "[p]一阵尴尬的沉默过去了, 然后<bot_23> 仔细思考, 长长地喘了一口气."
         },
         {
             "hash": 1846567790914868014,
             "key": "\"Something happened a while ago. Elena needed me to decipher the Runic letters on the statue. She said it was urgent, but she never explained why. However, her request has proven excessively difficult. The first time I translated the spell, it was stolen. Now the Fairies nearby won't let me anywhere near the Stone Statue.\"",
-            "value": "\"不久前发生了一些事情. Elena需要我破译雕像上的古老咒语. 她说事情很紧急, 但没有解释原因. 然而, 事实证明: 她的请求过于困难. 在我第一次尝试翻译这个咒语时, 它被偷走了. 现在附近的Fairies不让我靠近石像.\""
+            "value": "\"不久前发生了一些事情. Elena需要我破译雕像上的古老咒语. 她说事情很紧急, 但没有解释原因. 但是事实证明: 她的请求过于困难. 在我第一次尝试翻译这个咒语时, 附近的Fairies不让我靠近石像.\""
         },
         {
             "hash": 8862359915338691542,
@@ -2253,7 +2253,7 @@
         {
             "hash": 18132776765378910668,
             "key": "[p]As you speak, the Blue Light Orb appears as though it's listening to what you have to say, hanging onto every word, as it dances around you.",
-            "value": "[p]当你说话的时候, 蓝光球体似乎在听你说什么, 抓住每一个字, 因为它在你周围跳舞."
+            "value": "[p]当你说话的时候, 蓝光球体似乎在听你说什么, 因为它在你周围跳舞."
         },
         {
             "hash": 3888228036111991511,
@@ -2268,12 +2268,12 @@
         {
             "hash": 10773714309623744091,
             "key": "\"Something's appeared next to you. And, um, it's getting brighter...\" <bot_23> tries his best to mask it, but you can tell he is worried.",
-            "value": "\"有什么东西出现在你旁边. 而且, emm, 它越来越亮了...\" <bot_23>尽力掩饰, 但看得出他很担心."
+            "value": "\"有什么东西出现在你旁边. 而且, 它越来越亮了...\" <bot_23>尽力掩饰, 但看得出他很担心."
         },
         {
             "hash": 10209053307359612736,
             "key": "[p]You take deep breaths to try to feel better, which seems to help. You start to feel lighter. As you fill your lungs with what... seems like more than just air.",
-            "value": "[p]你深呼吸试图感觉更好, 这似乎有所帮助. 你开始感觉更轻了. 当你用什么填满你的肺部时... 似乎不仅仅是空气."
+            "value": "[p]你深呼吸试图感觉更好, 这似乎有所帮助. 你开始感觉更轻了. 当你想用空气填满你的肺时... 似乎不止是空气."
         },
         {
             "hash": 7836863735889141045,
@@ -2283,7 +2283,7 @@
         {
             "hash": 7140032092570529402,
             "key": "[p]While Village <bot_23> is checking up on you, you start feeling nauseous.",
-            "value": "[p]村民<bot_23>检查你时, 你开始感到恶心."
+            "value": "[p]<bot_23>检查你时, 你开始感到恶心."
         },
         {
             "hash": 6667901641762244668,
@@ -2298,22 +2298,22 @@
         {
             "hash": 13790593514625044190,
             "key": "[p]You ask Flower what she plans to do about the ancient spell translations. Even if you collect all of the shards, she still might not be able to decipher them.\n",
-            "value": "[p]你问Flower, 她打算对古代的拼写翻译做些什么. 即使你收集了所有的碎片, 她可能仍然无法破译.\n"
+            "value": "[p]你问Flower, 她打算对古代的拼写翻译做些什么. 即使你收集了所有的碎片, 也不一定能破译.\n"
         },
         {
             "hash": 10218399900635812296,
             "key": "\"Wow! Some fragments of the ruins must be buried under these mounds. Hurry; help me dig. The most important information is carved on these fragments.\"\n",
-            "value": "\"哇! 废墟的一些碎片埋在这些土堆下面. 请你帮我一起挖. 最重要的信息刻在这些碎片上.\"\n"
+            "value": "\"哇! 废墟的一些碎片埋在这些土堆下面. 我需要你帮我一起挖. 最重要的信息刻在这些碎片上.\"\n"
         },
         {
             "hash": 7826020863009505414,
             "key": "You need blood from <bot_24>s to make the refreshing medicine. Nothing's more invigorating than animal blood, am I right?",
-            "value": "你需要<bot_24> 的血液来制作提神药. 没有什么比动物血更令人振奋了, 我说得对吗?"
+            "value": "你需要<bot_24>的血液来制作提神药. 没有什么比动物血更令人振奋了, 对吧?"
         },
         {
             "hash": 17166696021270646824,
             "key": "\"This is useless! There is no translation book for ancient spells. I can't possibly decipher all these. Heck, these runes aren't even complete! Some of them are mostly worn off.\"\n",
-            "value": "\"这没用! 没有翻译古代咒语的书. 我不可能破译这些. 见鬼, 这些符文甚至都不完整! 其中一些大多已经磨损了!\"\n"
+            "value": "\"这没用! 没有翻译古代咒语的书. 我不可能破译这些! 这些符文甚至都不完整! 其中一些大多已经磨损了!\"\n"
         },
         {
             "hash": 15028714251811663184,
@@ -2323,7 +2323,7 @@
         {
             "hash": 14691999655731799544,
             "key": "[p]You peer at the runes as Flower taps her feet impatiently.",
-            "value": "[p]当Flower不耐烦地轻拍她的脚时, 你凝视着符文."
+            "value": "[p]当Flower不耐烦地拍手时, 你注视着符文."
         },
         {
             "hash": 1400493672715274157,
@@ -2338,7 +2338,7 @@
         {
             "hash": 17548543055594430479,
             "key": "\"This is Beebis, one of Elena's ostriches. He's a bit shy...\"",
-            "value": "\"这是Beebis, Elena的一只鸵鸟. 他有点害羞...\""
+            "value": "\"这是Beebis, Elena的鸵鸟. 他有些害羞...\""
         },
         {
             "hash": 7896399432576168530,
@@ -2348,12 +2348,12 @@
         {
             "hash": 17805833350844960800,
             "key": "[p]For a moment, you have no idea how to react.",
-            "value": "[p]那一刻, 你不知道该怎么反应."
+            "value": "[p]你被吓了一跳."
         },
         {
             "hash": 16934086539743192334,
             "key": "[p]Just as you are about to speak, a black shadow suddenly races over to you. Both you and Flower shriek in surprise.",
-            "value": "[p]就在你要说话的时候, 一个黑影突然向你扑来. 你和Flower都惊讶地尖叫起来."
+            "value": "[p]就在你要说话的时候, 一个黑影突然向你扑过来."
         },
         {
             "hash": 16371045832492527986,
@@ -2378,7 +2378,7 @@
         {
             "hash": 7768444980153533793,
             "key": "You and the other lumberjacks need something - some sort of medicine to refresh your minds and bodies. Something to put some pep back in your step.",
-            "value": "你和其他伐木工需要一些东西 - 某种药物来提神醒脑. 让你重新振作起来的东西."
+            "value": "你和其他伐木工需要一些东西: 某种药物来提神醒脑. 让你重新振作起来的东西."
         },
         {
             "hash": 17672210029151900289,
@@ -2388,17 +2388,17 @@
         {
             "hash": 9424205322844232645,
             "key": "\"You are truly an excellent assistant,\" \n\n<bot_23> comments, patting you on the back.",
-            "value": "\"你真是个出色的助手,\" \n\n<bot_23>拍了拍你的背."
+            "value": "\"你真是个出色的助手,\" \n\n<bot_23>拍了拍你."
         },
         {
             "hash": 18398753933762380782,
             "key": "I need you to prepare some <item_32> for me. You can find <bot_24> nearby.",
-            "value": "我需要你为我准备一些<item_32>. 您可以在附近找到<bot_24>."
+            "value": "我需要你为我准备一些羚羊的血. 你可以在这附近找到<bot_24>."
         },
         {
             "hash": 8527419691905087538,
             "key": "What?! that medicine shouldn't have had any side effects. Let me take a closer look.",
-            "value": "什么?! 那药不应该有任何副作用. 让我仔细看看."
+            "value": "什么?! 那药不应该有任何副作用. 让我看看."
         },
         {
             "hash": 3974084332029277940,
@@ -2438,7 +2438,7 @@
         {
             "hash": 10836147628434630177,
             "key": "Why do you feel dizzy? Could you be allergic to the medicine? Here, look. How many fingers am I holding up?",
-            "value": "你为什么会觉得头晕? 你会对这种药过敏吗? 来, 看. 我举起了几根手指?"
+            "value": "你为什么会觉得头晕? 你会对这种药过敏吗? 来, 我举起了几根手指?"
         },
         {
             "hash": 5405019322355363843,
@@ -2483,7 +2483,7 @@
         {
             "hash": 9926901459034629342,
             "key": "<player>, looks like I need to ask you to go gather some <item_33>s. They typically grow near tree trunks. Take a look around the area, and I'm sure you'll find 'em.\n\n(You can find the location of ores, loot, and mobs in the Wiki tab in the voting).",
-            "value": "<player>, 看起来我需要请你去收集一些<item_33>. 它们通常生长在树干附近. 看看地上, 我相信你会找到他们的.\n\n(你可以在投票的Wiki选项卡中找到资源和怪物的位置)."
+            "value": "<player>, 看起来我需要请你去收集一些<item_33>. 它们通常生长在树干附近. 看看地上, 我相信你会找到他们的.\n\n(你可以在投票中找到Wiki选项, wiki中可以找到资源和怪物的位置)."
         },
         {
             "hash": 10610497013921202634,
@@ -2493,7 +2493,7 @@
         {
             "hash": 3637242659990043964,
             "key": "[p]<bot_23> grins when you hand him the <item_33>s.",
-            "value": "[p]当你把<item_33>递给他时, <bot_23>笑了起来."
+            "value": "[p]当你把<item_33>递给她时, <bot_23>笑了起来."
         },
         {
             "hash": 3345933021052829684,
@@ -2508,7 +2508,7 @@
         {
             "hash": 10344213703068234893,
             "key": "Wait until your mind stabilizes, then please send the potion to the lumberjacks.\n",
-            "value": "等到你的心智稳定下来, 然后把药剂送到伐木工人那里.\n"
+            "value": "等到你的心情稳定下来, 然后把药剂送到伐木工人那里.\n"
         },
         {
             "hash": 13954558694289912097,
@@ -2528,7 +2528,7 @@
         {
             "hash": 3133477604782422587,
             "key": "Good! Put them together and give 'em a good grind. Then mix in this medicine, bottle it, and we're done! Easy, eh?",
-            "value": "好的! 把它们放在一起磨一磨. 然后把这种药混在一起, 装在瓶子里, 我们就完了! 简单, 嗯?"
+            "value": "好的! 把它们放在一起磨一磨. 然后把这种药混在一起, 装在瓶子里, 我们就完了! 十分简单吧?"
         },
         {
             "hash": 3784390494125538971,
@@ -2608,7 +2608,7 @@
         {
             "hash": 2102632213735951980,
             "key": "Beast Tusk Light Armor (All)",
-            "value": "兽牙装甲(所有职业)"
+            "value": "兽牙装甲(全职业)"
         },
         {
             "hash": 13785446325068515279,
@@ -2728,7 +2728,7 @@
         {
             "hash": 18318905972459117254,
             "key": "Green Grass Armor (All)",
-            "value": "绿草装甲（所有职业）"
+            "value": "绿草装甲（全职业）"
         },
         {
             "hash": 10887308137559197442,
@@ -3405,7 +3405,7 @@
         {
             "hash": 7535444412584985892,
             "key": "Blue Light Armor (All)",
-            "value": "粘液装甲(所有职业)"
+            "value": "粘液装甲(全职业)"
         },
         {
             "hash": 6576575234591741512,
@@ -3614,7 +3614,7 @@
         {
             "hash": 11074727100581008439,
             "key": "Confiscated Material",
-            "value": "没收的材料"
+            "value": "丢失的渔获"
         },
         {
             "hash": 6705433452749646914,
