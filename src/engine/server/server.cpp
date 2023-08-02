@@ -1984,6 +1984,12 @@ int CServer::Run()
 		}
 	}
 
+	// send server shutdown drop message
+	for(int i = 0; i < MAX_PLAYERS; i ++)
+	{
+		m_NetServer.Drop(i, "Server shutdown");
+	}
+
 	// disconnect all clients on shutdown
 	m_NetServer.Close();
 	m_Econ.Shutdown();
